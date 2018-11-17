@@ -1,0 +1,1795 @@
+"","city","state","count","city.state","lon","lat"
+"1","Abbeville","AL",1,"Abbeville ,  AL",-85.2504893,31.5718352
+"2","Aberdeen","NC",1,"Aberdeen ,  NC",-79.4294789,35.131547
+"3","Abilene","TX",2,"Abilene ,  TX",-99.7331439,32.4487364
+"4","Abingdon","MD",1,"Abingdon ,  MD",-76.2772223,39.4622357
+"5","Acworth","GA",1,"Acworth ,  GA",-84.6768796,34.0659329
+"6","Adams County","CO",1,"Adams County ,  CO",-104.1930918,39.8398269
+"7","Addison","TX",1,"Addison ,  TX",-96.8291685,32.96179
+"8","Affton","MO",1,"Affton ,  MO",-90.3331719,38.5506084
+"9","Aiken","SC",2,"Aiken ,  SC",-81.7195533,33.5604168
+"10","Aitkin","MN",1,"Aitkin ,  MN",-93.7102493,46.5330129
+"11","Akron","OH",5,"Akron ,  OH",-81.5190053,41.0814447
+"12","Alamo","TN",1,"Alamo ,  TN",-89.1172883,35.7847949
+"13","Alamogordo","NM",1,"Alamogordo ,  NM",-105.960265,32.8995325
+"14","Alamosa","CO",1,"Alamosa ,  CO",-105.8700214,37.4694491
+"15","Albany","GA",1,"Albany ,  GA",-84.155741,31.5785074
+"16","Albuquerque","NM",20,"Albuquerque ,  NM",-106.650422,35.0843859
+"17","Alderwood Manor","WA",1,"Alderwood Manor ,  WA",-122.2482582,47.8104919
+"18","Aldie","VA",1,"Aldie ,  VA",-77.6418724,38.9756745
+"19","Alexandria","LA",1,"Alexandria ,  LA",-92.4451371,31.3112936
+"20","Alexandria","MN",1,"Alexandria ,  MN",-95.3776663,45.8848164
+"21","Alexandria","VA",1,"Alexandria ,  VA",-77.0469214,38.8048355
+"22","Algoma Township","MI",1,"Algoma Township ,  MI",-85.6229296,43.1492928
+"23","Alhambra","CA",1,"Alhambra ,  CA",-118.1270146,34.095287
+"24","Allentown","PA",2,"Allentown ,  PA",-75.4714098,40.6022939
+"25","Aloha","OR",2,"Aloha ,  OR",-122.8670454,45.4942838
+"26","Alpine","CA",1,"Alpine ,  CA",-116.7664109,32.8350521
+"27","Alton","IL",2,"Alton ,  IL",-90.1842764,38.8906038
+"28","Altoona","IA",1,"Altoona ,  IA",-93.4750836,41.6435514
+"29","Alvin","TX",1,"Alvin ,  TX",-95.2441009,29.4238472
+"30","Amarillo","TX",5,"Amarillo ,  TX",-101.8312969,35.2219971
+"31","Amelia Island","FL",1,"Amelia Island ,  FL",-81.460856,30.6265697
+"32","Amity","OR",1,"Amity ,  OR",-123.2073257,45.1156724
+"33","Anaheim","CA",4,"Anaheim ,  CA",-117.9143012,33.8365932
+"34","Anderson","CA",1,"Anderson ,  CA",-122.2977815,40.448208
+"35","Ankeny","IA",1,"Ankeny ,  IA",-93.6001278,41.7317884
+"36","Anniston","AL",1,"Anniston ,  AL",-85.8316318,33.6598257
+"37","Anson County","NC",1,"Anson County ,  NC",-80.1875065,34.9054732
+"38","Antelope","CA",1,"Antelope ,  CA",-121.3644216,38.7166871
+"39","Antigo","WI",1,"Antigo ,  WI",-89.1523353,45.140245
+"40","Antioch","CA",4,"Antioch ,  CA",-121.805789,38.0049214
+"41","Antioch","IL",1,"Antioch ,  IL",-88.0956396,42.4772418
+"42","Antioch","TN",1,"Antioch ,  TN",-86.6715948,36.0597177
+"43","Apache Junction","AZ",2,"Apache Junction ,  AZ",-111.5495777,33.4150485
+"44","Apopka","FL",1,"Apopka ,  FL",-81.5322149,28.6934076
+"45","Apple Valley","CA",1,"Apple Valley ,  CA",-117.1858759,34.5008311
+"46","Appleton","WI",2,"Appleton ,  WI",-88.4153847,44.2619309
+"47","Arab","AL",1,"Arab ,  AL",-86.4958219,34.3181497
+"48","Aragonite","UT",1,"Aragonite ,  UT",-113.0051176,40.7427465
+"49","Arcata","CA",1,"Arcata ,  CA",-124.0828396,40.8665166
+"50","Archdale","NC",1,"Archdale ,  NC",-79.9719831,35.914581
+"51","Arcola","IL",1,"Arcola ,  IL",-88.3064367,39.684755
+"52","Ardmore","OK",1,"Ardmore ,  OK",-97.1436254,34.1742611
+"53","Arlington","GA",1,"Arlington ,  GA",-84.7249188,31.4398976
+"54","Arlington","TN",1,"Arlington ,  TN",-89.661469,35.2961973
+"55","Arlington","TX",5,"Arlington ,  TX",-97.1080656,32.735687
+"56","Arlington","VA",1,"Arlington ,  VA",-77.0909809,38.8816208
+"57","Artesia","NM",1,"Artesia ,  NM",-104.4032962,32.8423345
+"58","Arundel","ME",1,"Arundel ,  ME",-70.5141622,43.4243008
+"59","Arvada","CO",2,"Arvada ,  CO",-105.0874842,39.8027644
+"60","Arvonia","VA",1,"Arvonia ,  VA",-78.3413918,37.683478
+"61","Asheville","NC",1,"Asheville ,  NC",-82.5514869,35.5950581
+"62","Ashville","AL",1,"Ashville ,  AL",-86.2544223,33.8370433
+"63","Ashwaubenon","WI",1,"Ashwaubenon ,  WI",-88.0701033,44.4822137
+"64","Assaria","KS",1,"Assaria ,  KS",-97.6044806,38.6802826
+"65","Atascadero","CA",1,"Atascadero ,  CA",-120.6707255,35.4894169
+"66","Atlanta","GA",9,"Atlanta ,  GA",-84.3879824,33.7489954
+"67","Atlantic City","NJ",2,"Atlantic City ,  NJ",-74.4229266,39.3642834
+"68","Atwater","CA",3,"Atwater ,  CA",-120.609084,37.3477174
+"69","Auburn","WA",2,"Auburn ,  WA",-122.2284532,47.3073228
+"70","Auburndale","FL",1,"Auburndale ,  FL",-81.7886906,28.0652975
+"71","Augusta","GA",1,"Augusta ,  GA",-82.0105148,33.4734978
+"72","Augusta","WV",1,"Augusta ,  WV",-78.6377912,39.2953787
+"73","Aurora","CO",5,"Aurora ,  CO",-104.8319195,39.7294319
+"74","Aurora","IL",1,"Aurora ,  IL",-88.3200715,41.7605849
+"75","Austin","AR",1,"Austin ,  AR",-91.9837552,34.9984206
+"76","Austin","MN",1,"Austin ,  MN",-92.9746367,43.6666296
+"77","Austin","TX",18,"Austin ,  TX",-97.7430608,30.267153
+"78","Avenal","CA",1,"Avenal ,  CA",-120.1290272,36.0041223
+"79","Avon","IN",1,"Avon ,  IN",-86.3997167,39.7628227
+"80","Avondale","AZ",2,"Avondale ,  AZ",-112.3496021,33.4355977
+"81","Azle","TX",2,"Azle ,  TX",-97.5458565,32.8951262
+"82","Azusa","CA",3,"Azusa ,  CA",-117.9075627,34.1336186
+"83","Bailey","CO",1,"Bailey ,  CO",-105.4786412,39.4060536
+"84","Bainbridge Island","WA",1,"Bainbridge Island ,  WA",-122.5210007,47.6248791
+"85","Bakersfield","CA",16,"Bakersfield ,  CA",-119.0187125,35.3732921
+"86","Balch Springs","TX",1,"Balch Springs ,  TX",-96.6227714,32.7287413
+"87","Baldwin County","AL",1,"Baldwin County ,  AL",-87.7763333,30.6010744
+"88","Baldwin Hills","CA",1,"Baldwin Hills ,  CA",-118.3403506,34.0181993
+"89","Baltimore","MD",11,"Baltimore ,  MD",-76.6121893,39.2903848
+"90","Bangor","ME",1,"Bangor ,  ME",-68.7712257,44.8016128
+"91","Barberville","FL",1,"Barberville ,  FL",-81.420901,29.1872023
+"92","Barbourville","KY",1,"Barbourville ,  KY",-83.8888138,36.8664765
+"93","Bardstown","KY",1,"Bardstown ,  KY",-85.4669025,37.8092279
+"94","Barnwell","AL",1,"Barnwell ,  AL",-87.878578,30.423983
+"95","Barstow","CA",3,"Barstow ,  CA",-117.0172826,34.8957957
+"96","Bartlesville","OK",1,"Bartlesville ,  OK",-95.9808179,36.7473114
+"97","Bartlett","TN",1,"Bartlett ,  TN",-89.8739753,35.2045328
+"98","Barton","MS",1,"Barton ,  MS",-89.6892502,34.9639824
+"99","Bassett","CA",1,"Bassett ,  CA",-117.9893301,34.0541034
+"100","Bassett","VA",1,"Bassett ,  VA",-79.9903195,36.7593036
+"101","Bath","NH",1,"Bath ,  NH",-71.9662009,44.1670079
+"102","Baton Rouge","LA",8,"Baton Rouge ,  LA",-91.1871466,30.4514677
+"103","Battle Creek","MI",1,"Battle Creek ,  MI",-85.1797142,42.3211522
+"104","Baxter","KY",1,"Baxter ,  KY",-83.330737,36.8598108
+"105","Bay City","MI",1,"Bay City ,  MI",-83.8888647,43.5944677
+"106","Bay Minette","AL",1,"Bay Minette ,  AL",-87.7730474,30.8829628
+"107","Baytown","TX",2,"Baytown ,  TX",-94.9774274,29.7355047
+"108","Beacon","NY",1,"Beacon ,  NY",-73.9695832,41.5048158
+"109","Beaumont","CA",1,"Beaumont ,  CA",-116.977248,33.9294606
+"110","Beaumont","TX",2,"Beaumont ,  TX",-94.1265562,30.080174
+"111","Beaver Dam","WI",1,"Beaver Dam ,  WI",-88.837329,43.4577692
+"112","Beaverton","MI",1,"Beaverton ,  MI",-84.4847316,43.8822464
+"113","Beaverton","OR",3,"Beaverton ,  OR",-122.8013332,45.4887993
+"114","Beckley","WV",1,"Beckley ,  WV",-81.1881557,37.7781702
+"115","Beckville","TX",1,"Beckville ,  TX",-94.4554782,32.2429366
+"116","Bedford","TX",1,"Bedford ,  TX",-97.1430671,32.844017
+"117","Bel Air","MD",1,"Bel Air ,  MD",-76.3482931,39.5359406
+"118","Belgrade","ME",1,"Belgrade ,  ME",-69.8321003,44.4466514
+"119","Bell","CA",1,"Bell ,  CA",-118.1870156,33.9775142
+"120","Belle Glade","FL",1,"Belle Glade ,  FL",-80.6675577,26.6845104
+"121","Belleville","IL",1,"Belleville ,  IL",-89.9839935,38.5200504
+"122","Belleville","MI",1,"Belleville ,  MI",-83.4852133,42.2047619
+"123","Bellingham","WA",1,"Bellingham ,  WA",-122.4786854,48.7519112
+"124","Bellville","TX",1,"Bellville ,  TX",-96.2571858,29.9502253
+"125","Belton","MO",1,"Belton ,  MO",-94.5318982,38.8119527
+"126","Bend","OR",2,"Bend ,  OR",-121.3153096,44.0581728
+"127","Benton","AR",2,"Benton ,  AR",-92.586828,34.5645371
+"128","Benton","IL",1,"Benton ,  IL",-88.9200685,37.9967163
+"129","Benton City","WA",1,"Benton City ,  WA",-119.487802,46.2631897
+"130","Benton Harbor","MI",1,"Benton Harbor ,  MI",-86.4541894,42.1167065
+"131","Berea","KY",1,"Berea ,  KY",-84.2963223,37.568694
+"132","Berne","NY",1,"Berne ,  NY",-74.1334647,42.6253546
+"133","Berrien County","MI",1,"Berrien County ,  MI",-86.7416374,42.0320742
+"134","Bethany","OK",1,"Bethany ,  OK",-97.6322639,35.5186678
+"135","Beverly","OH",1,"Beverly ,  OH",-81.6395732,39.5478509
+"136","Beverly Hills","FL",1,"Beverly Hills ,  FL",-82.4581536,28.9169245
+"137","Bexar County","TX",1,"Bexar County ,  TX",-98.5721016,29.4200763
+"138","Big Springs","NE",1,"Big Springs ,  NE",-102.0740255,41.0630102
+"139","Billings","MT",6,"Billings ,  MT",-108.5006904,45.7832856
+"140","Biloxi","MS",1,"Biloxi ,  MS",-88.8853078,30.3960318
+"141","Birmingham","AL",3,"Birmingham ,  AL",-86.8103567,33.5185892
+"142","Bisbee","AZ",1,"Bisbee ,  AZ",-109.9284084,31.4481547
+"143","Bismarck","ND",1,"Bismarck ,  ND",-100.7837392,46.8083268
+"144","Bixby","OK",1,"Bixby ,  OK",-95.8833235,35.9420431
+"145","Black River Falls","WI",1,"Black River Falls ,  WI",-90.8515311,44.2946833
+"146","Blackman Township","MI",1,"Blackman Township ,  MI",-84.4592701,42.2799168
+"147","Blacksburg","SC",1,"Blacksburg ,  SC",-81.5159246,35.1212408
+"148","Bloomfield Township","MI",1,"Bloomfield Township ,  MI",-83.2827093,42.5793103
+"149","Bloomington","MN",1,"Bloomington ,  MN",-93.2982799,44.840798
+"150","Blue Springs","MO",2,"Blue Springs ,  MO",-94.2816148,39.0169509
+"151","Blue Summit","MO",1,"Blue Summit ,  MO",-94.4812434,39.0886727
+"152","Bluefield","WV",1,"Bluefield ,  WV",-81.2223195,37.2698395
+"153","Boerne","TX",1,"Boerne ,  TX",-98.7319703,29.7946641
+"154","Boiling Springs","SC",1,"Boiling Springs ,  SC",-81.9817726,35.046508
+"155","Boise","ID",5,"Boise ,  ID",-116.2023137,43.6150186
+"156","Bolton","CT",1,"Bolton ,  CT",-72.4334173,41.7689878
+"157","Bolton","VT",1,"Bolton ,  VT",-72.8787625,44.3726476
+"158","Bon Aqua","TN",1,"Bon Aqua ,  TN",-87.3275828,35.9533956
+"159","Bonaire","GA",1,"Bonaire ,  GA",-83.5960161,32.5437575
+"160","Boone","IA",1,"Boone ,  IA",-93.9878427,42.0881747
+"161","Booneville","KY",1,"Booneville ,  KY",-83.6749145,37.4761991
+"162","Boonville","IN",1,"Boonville ,  IN",-87.2741723,38.0492131
+"163","Bossier City","LA",1,"Bossier City ,  LA",-93.7321228,32.5159852
+"164","Boston","MA",5,"Boston ,  MA",-71.0588801,42.3600825
+"165","Boswell","OK",1,"Boswell ,  OK",-95.8691422,34.0273209
+"166","Boulder","CO",4,"Boulder ,  CO",-105.2705456,40.0149856
+"167","Boulder Creek","CA",1,"Boulder Creek ,  CA",-122.1221869,37.1260578
+"168","Boyle Heights","CA",1,"Boyle Heights ,  CA",-118.2117257,34.0297895
+"169","Bradenton","FL",2,"Bradenton ,  FL",-82.5748194,27.4989278
+"170","Braintree","MA",1,"Braintree ,  MA",-71.0040013,42.2079017
+"171","Braxton County","WV",1,"Braxton County ,  WV",-80.7214417,38.7023371
+"172","Brevard","NC",1,"Brevard ,  NC",-82.7342919,35.2334472
+"173","Brick","NJ",1,"Brick ,  NJ",-74.1371832,40.0578384
+"174","Brick Township","NJ",1,"Brick Township ,  NJ",-74.1371832,40.0578384
+"175","Bridgeton","NJ",1,"Bridgeton ,  NJ",-75.2340768,39.427337
+"176","Brighton Township","MI",1,"Brighton Township ,  MI",-83.7411631,42.5564732
+"177","Bristol","TN",1,"Bristol ,  TN",-82.1887444,36.5951059
+"178","Bristol Township","PA",1,"Bristol Township ,  PA",-74.8682569,40.1259492
+"179","Brockton","MA",2,"Brockton ,  MA",-71.0183787,42.0834335
+"180","Broken Bow","OK",1,"Broken Bow ,  OK",-94.7391045,34.0292764
+"181","Bronx","NY",4,"Bronx ,  NY",-73.8648268,40.8447819
+"182","Brookhaven","MS",1,"Brookhaven ,  MS",-90.4406506,31.5790588
+"183","Brooklet","GA",1,"Brooklet ,  GA",-81.6631659,32.3796294
+"184","Brooklyn","NY",5,"Brooklyn ,  NY",-73.9441579,40.6781784
+"185","Brooksville","AL",1,"Brooksville ,  AL",-86.4755431,34.1620404
+"186","Brooksville","FL",2,"Brooksville ,  FL",-82.3878709,28.5552719
+"187","Brookville","IN",1,"Brookville ,  IN",-85.0127376,39.4231065
+"188","Brookville","OH",1,"Brookville ,  OH",-84.4113366,39.8367207
+"189","Broomfield","CO",1,"Broomfield ,  CO",-105.0866504,39.9205411
+"190","Brownsville","TX",3,"Brownsville ,  TX",-97.4974838,25.9017472
+"191","Buffalo","MO",1,"Buffalo ,  MO",-93.0924093,37.6439289
+"192","Buffalo","NY",2,"Buffalo ,  NY",-78.8783689,42.8864468
+"193","Buford","GA",1,"Buford ,  GA",-84.0043513,34.1206564
+"194","Bull Shoals","AR",1,"Bull Shoals ,  AR",-92.5815527,36.383956
+"195","Bullhead City","AZ",1,"Bullhead City ,  AZ",-114.5285981,35.1359386
+"196","Bunch","OK",1,"Bunch ,  OK",-94.7608801,35.6826766
+"197","Burbank","CA",2,"Burbank ,  CA",-118.3089661,34.1808392
+"198","Burien","WA",2,"Burien ,  WA",-122.3405305,47.4668384
+"199","Burkesville","KY",1,"Burkesville ,  KY",-85.3705186,36.7903399
+"200","Burlington","IA",1,"Burlington ,  IA",-91.1128901,40.8076529
+"201","Burlington","NC",1,"Burlington ,  NC",-79.4377991,36.0956918
+"202","Burlington","VT",2,"Burlington ,  VT",-73.212072,44.4758825
+"203","Burns","OR",1,"Burns ,  OR",-119.0541032,43.5862606
+"204","Burns Flat","OK",1,"Burns Flat ,  OK",-99.1703617,35.3489397
+"205","Burnsville","MN",2,"Burnsville ,  MN",-93.2777226,44.7677424
+"206","Butte","MT",1,"Butte ,  MT",-112.5347775,46.0038232
+"207","Byars","OK",1,"Byars ,  OK",-97.0500217,34.8742466
+"208","Byram","NJ",1,"Byram ,  NJ",-74.7227291,40.9601024
+"209","Cañon City","CO",1,"Cañon City ,  CO",-105.2253316,38.4494063
+"210","Cabazon","CA",1,"Cabazon ,  CA",-116.7872399,33.9175154
+"211","Cabot","AR",1,"Cabot ,  AR",-92.0165336,34.974532
+"212","Cache","OK",1,"Cache ,  OK",-98.6286741,34.6295165
+"213","Cade","LA",1,"Cade ,  LA",-91.9062763,30.0887073
+"214","Calaveras County","CA",1,"Calaveras County ,  CA",-120.6805037,38.1960477
+"215","Calexico","CA",1,"Calexico ,  CA",-115.4988834,32.6789476
+"216","Calimesa","CA",1,"Calimesa ,  CA",-117.0619755,34.0039039
+"217","Camden","NJ",3,"Camden ,  NJ",-75.1196199,39.9259463
+"218","Camp Croft","SC",1,"Camp Croft ,  SC",-81.85288,34.9106819
+"219","Camp Wood","TX",1,"Camp Wood ,  TX",-100.0122911,29.6693924
+"220","Campbellton","TX",1,"Campbellton ,  TX",-98.3025107,28.747482
+"221","Campbelltown","PA",1,"Campbelltown ,  PA",-76.5852462,40.2775915
+"222","Campo","CA",1,"Campo ,  CA",-116.4697321,32.6075795
+"223","Campobello","SC",1,"Campobello ,  SC",-82.1501112,35.1156713
+"224","Canaan Township","PA",1,"Canaan Township ,  PA",-75.3528779,41.5605542
+"225","Canandaigua","NY",1,"Canandaigua ,  NY",-77.2816984,42.887535
+"226","Canton","NC",1,"Canton ,  NC",-82.8373558,35.5328838
+"227","Canton","OH",1,"Canton ,  OH",-81.378447,40.7989473
+"228","Canton Township","PA",1,"Canton Township ,  PA",-80.3101684,40.218128
+"229","Cantonment","FL",1,"Cantonment ,  FL",-87.3446492,30.6053644
+"230","Cape Canaveral","FL",1,"Cape Canaveral ,  FL",-80.6077132,28.3922182
+"231","Cape Coral","FL",2,"Cape Coral ,  FL",-81.9495331,26.5628537
+"232","Cape Girardeau","MO",1,"Cape Girardeau ,  MO",-89.5181476,37.3058839
+"233","Capitol Heights","MD",1,"Capitol Heights ,  MD",-76.9158068,38.8851122
+"234","Carmichael","CA",1,"Carmichael ,  CA",-121.3282843,38.617127
+"235","Carollwood","FL",1,"Carollwood ,  FL",-82.4996398,28.0507738
+"236","Carrizozo","NM",1,"Carrizozo ,  NM",-105.877212,33.6417408
+"237","Carroll County","GA",1,"Carroll County ,  GA",-85.0649071,33.5642239
+"238","Carrollton","GA",1,"Carrollton ,  GA",-85.0766113,33.5801103
+"239","Carrollton","TX",1,"Carrollton ,  TX",-96.8899636,32.9756415
+"240","Carson","CA",1,"Carson ,  CA",-118.281693,33.8316745
+"241","Carson City","NV",2,"Carson City ,  NV",-119.7674034,39.1637984
+"242","Cartersville","GA",2,"Cartersville ,  GA",-84.7999382,34.1650972
+"243","Carthage","TN",1,"Carthage ,  TN",-85.951654,36.2522766
+"244","Cary","NC",1,"Cary ,  NC",-78.7811169,35.79154
+"245","Casa Grande","AZ",1,"Casa Grande ,  AZ",-111.7733902,32.9110027
+"246","Casper","WY",5,"Casper ,  WY",-106.3251749,42.8500769
+"247","Castaic","CA",1,"Castaic ,  CA",-118.6256552,34.4890363
+"248","Cathedral City","CA",1,"Cathedral City ,  CA",-116.4668036,33.7805388
+"249","Cato Township","MI",1,"Cato Township ,  MI",-85.2515482,43.443107
+"250","Catoosa","OK",2,"Catoosa ,  OK",-95.745817,36.188987
+"251","Cayce","SC",1,"Cayce ,  SC",-81.0739827,33.9657091
+"252","Cedar Lake","TX",1,"Cedar Lake ,  TX",-95.6368955,28.9010869
+"253","Cedar Rapids","IA",2,"Cedar Rapids ,  IA",-91.6656232,41.9778795
+"254","Celina","OH",1,"Celina ,  OH",-84.5702338,40.5489358
+"255","Centennial","CO",2,"Centennial ,  CO",-104.8771726,39.5807452
+"256","Ceres","CA",3,"Ceres ,  CA",-120.9577098,37.5949316
+"257","Chalmette","LA",1,"Chalmette ,  LA",-89.9635162,29.942783
+"258","Chandler","AZ",2,"Chandler ,  AZ",-111.8412502,33.3061605
+"259","Chanhassen","MN",1,"Chanhassen ,  MN",-93.5323103,44.8619645
+"260","Chapeno","TX",1,"Chapeno ,  TX",-99.154991,26.534403
+"261","Charleston","SC",1,"Charleston ,  SC",-79.9310512,32.7764749
+"262","Charleston","WV",4,"Charleston ,  WV",-81.6326234,38.3498195
+"263","Charlotte","NC",13,"Charlotte ,  NC",-80.8431267,35.2270869
+"264","Charlottesville","VA",1,"Charlottesville ,  VA",-78.4766781,38.0293059
+"265","Chatsworth","CA",1,"Chatsworth ,  CA",-118.61481,34.2506356
+"266","Chattanooga","TN",4,"Chattanooga ,  TN",-85.3096801,35.0456297
+"267","Chavies","KY",1,"Chavies ,  KY",-83.3562912,37.3478702
+"268","Cheektowaga","NY",1,"Cheektowaga ,  NY",-78.744572,42.9026136
+"269","Cheney","WA",1,"Cheney ,  WA",-117.5757622,47.4873895
+"270","Chesapeake","VA",2,"Chesapeake ,  VA",-76.2874927,36.7682088
+"271","Chester","PA",3,"Chester ,  PA",-75.3557457,39.849557
+"272","Chester","SC",1,"Chester ,  SC",-81.2142561,34.7048613
+"273","Chester","VA",1,"Chester ,  VA",-77.4416505,37.3568157
+"274","Chesterfield County","SC",1,"Chesterfield County ,  SC",-80.1428584,34.6830936
+"275","Cheyenne","WY",2,"Cheyenne ,  WY",-104.8202462,41.1399814
+"276","Chicago","IL",24,"Chicago ,  IL",-87.6297982,41.8781136
+"277","Chickasha","OK",2,"Chickasha ,  OK",-97.9364326,35.052565
+"278","Chico","CA",4,"Chico ,  CA",-121.8374777,39.7284944
+"279","Chinle","AZ",1,"Chinle ,  AZ",-109.5526072,36.1544483
+"280","Chino","CA",2,"Chino ,  CA",-117.688944,34.0122346
+"281","Chowchilla","CA",1,"Chowchilla ,  CA",-120.2601754,37.1229997
+"282","Chula Vista","CA",2,"Chula Vista ,  CA",-117.0841955,32.6400541
+"283","Church Hill","TN",1,"Church Hill ,  TN",-82.7134921,36.5223207
+"284","Cincinnati","OH",6,"Cincinnati ,  OH",-84.5120196,39.1031182
+"285","Circleville","OH",1,"Circleville ,  OH",-82.9460133,39.600618
+"286","Cisco","TX",1,"Cisco ,  TX",-98.9792336,32.3881861
+"287","Citra","FL",1,"Citra ,  FL",-82.1098156,29.4119166
+"288","Citronelle","AL",1,"Citronelle ,  AL",-88.2280622,31.0907338
+"289","Citrus Heights","CA",3,"Citrus Heights ,  CA",-121.2810611,38.7071247
+"290","City Terrace","CA",1,"City Terrace ,  CA",-118.1828495,34.0500116
+"291","Clackamas County","OR",1,"Clackamas County ,  OR",-122.1188945,45.2023855
+"292","Clanton","AL",2,"Clanton ,  AL",-86.6294262,32.8387371
+"293","Claremont","NH",1,"Claremont ,  NH",-72.3378744,43.3728635
+"294","Clarendon","NY",1,"Clarendon ,  NY",-78.0647387,43.193393
+"295","Clarkesville","GA",1,"Clarkesville ,  GA",-83.5248933,34.6125971
+"296","Clarksdale","MS",1,"Clarksdale ,  MS",-90.5709323,34.2001086
+"297","Clarksville","AR",1,"Clarksville ,  AR",-93.4665731,35.4714724
+"298","Clarksville","TN",2,"Clarksville ,  TN",-87.3594528,36.5297706
+"299","Clarksville","TX",1,"Clarksville ,  TX",-95.052722,33.6106648
+"300","Clay","AL",1,"Clay ,  AL",-86.5997096,33.7026013
+"301","Clayton","GA",1,"Clayton ,  GA",-83.4009933,34.8781479
+"302","Cle Elum","WA",1,"Cle Elum ,  WA",-120.9392489,47.1953976
+"303","Clear Creek Canyon","CO",1,"Clear Creek Canyon ,  CO",-105.0426187,39.7969034
+"304","Clearfield","UT",1,"Clearfield ,  UT",-112.0260538,41.1107771
+"305","Clearlake Park","CA",1,"Clearlake Park ,  CA",-122.6510961,38.966564
+"306","Clearwater","FL",1,"Clearwater ,  FL",-82.8001026,27.9658533
+"307","Clendenin","WV",1,"Clendenin ,  WV",-81.3481745,38.4887089
+"308","Clermont","FL",1,"Clermont ,  FL",-81.7728543,28.5494447
+"309","Cleveland","OH",6,"Cleveland ,  OH",-81.6943605,41.49932
+"310","Clinton","IL",1,"Clinton ,  IL",-88.9645253,40.1536479
+"311","Clinton","MD",1,"Clinton ,  MD",-76.8983059,38.7651145
+"312","Clinton","MO",1,"Clinton ,  MO",-93.7782689,38.3686324
+"313","Clinton","NC",1,"Clinton ,  NC",-78.3233325,34.9979453
+"314","Clinton","TN",1,"Clinton ,  TN",-84.1318632,36.1034126
+"315","Cloverdale","CA",1,"Cloverdale ,  CA",-123.0172227,38.8054624
+"316","Clovis","NM",1,"Clovis ,  NM",-103.2052272,34.4047987
+"317","Clute","TX",1,"Clute ,  TX",-95.3988291,29.0246906
+"318","Coal County","OK",1,"Coal County ,  OK",-96.2800864,34.568577
+"319","Coalinga","CA",1,"Coalinga ,  CA",-120.3601496,36.139678
+"320","Cobb County","GA",1,"Cobb County ,  GA",-84.564147,33.8999297
+"321","Cochran","GA",1,"Cochran ,  GA",-83.3546098,32.3868278
+"322","Cocke County","TN",1,"Cocke County ,  TN",-83.1220074,35.9359517
+"323","Cocoa","FL",2,"Cocoa ,  FL",-80.7419984,28.3861159
+"324","Coeur d'Alene","ID",1,"Coeur d'Alene ,  ID",-116.7812225,47.6734632
+"325","Cohasset","MN",1,"Cohasset ,  MN",-93.6221657,47.2640071
+"326","Colbert","OK",1,"Colbert ,  OK",-96.5024916,33.8531568
+"327","Colby","KS",1,"Colby ,  KS",-101.0523773,39.3958369
+"328","Colebrook Township","OH",1,"Colebrook Township ,  OH",-80.7626152,41.5357732
+"329","Colorado City","CO",1,"Colorado City ,  CO",-104.8352628,37.9452861
+"330","Colorado Springs","CO",9,"Colorado Springs ,  CO",-104.8213634,38.8338816
+"331","Colton","CA",2,"Colton ,  CA",-117.3136547,34.0739016
+"332","Colton","OR",1,"Colton ,  OR",-122.4374803,45.1721192
+"333","Columbia","MD",1,"Columbia ,  MD",-76.8610462,39.2037144
+"334","Columbia","MO",2,"Columbia ,  MO",-92.3340724,38.9517053
+"335","Columbia Heights","MN",1,"Columbia Heights ,  MN",-93.2474098,45.0481968
+"336","Columbia Township","MI",1,"Columbia Township ,  MI",-84.2910759,42.1142112
+"337","Columbua","IN",1,"Columbua ,  IN",-85.9213796,39.2014404
+"338","Columbus","GA",2,"Columbus ,  GA",-84.9877094,32.4609764
+"339","Columbus","MS",3,"Columbus ,  MS",-88.4272627,33.4956744
+"340","Columbus","OH",21,"Columbus ,  OH",-82.9987942,39.9611755
+"341","Commerce","GA",1,"Commerce ,  GA",-83.4571057,34.203997
+"342","Commerce City","CO",1,"Commerce City ,  CO",-104.9338675,39.8083196
+"343","Compton","CA",3,"Compton ,  CA",-118.2200712,33.8958492
+"344","Concord","CA",1,"Concord ,  CA",-122.0310733,37.9779776
+"345","Coney Island","NY",1,"Coney Island ,  NY",-73.9707016,40.5755438
+"346","Conroe","TX",3,"Conroe ,  TX",-95.4560512,30.3118769
+"347","Constantia","NY",1,"Constantia ,  NY",-75.946324,43.2644105
+"348","Converse","LA",1,"Converse ,  LA",-93.693794,31.7815585
+"349","Coolin","ID",1,"Coolin ,  ID",-116.8494591,48.479643
+"350","Corning","CA",1,"Corning ,  CA",-122.1791556,39.9276572
+"351","Corning","WI",1,"Corning ,  WI",-89.9623372,45.2618507
+"352","Corpus Christi","TX",4,"Corpus Christi ,  TX",-97.396381,27.8005828
+"353","Cosby","TN",1,"Cosby ,  TN",-83.2477597,35.8154772
+"354","Cottonwood","AZ",2,"Cottonwood ,  AZ",-112.0098791,34.7391876
+"355","Cottonwood","CA",1,"Cottonwood ,  CA",-122.2808355,40.3857087
+"356","Counce","TN",1,"Counce ,  TN",-88.2735399,35.0422751
+"357","Council","ID",1,"Council ,  ID",-116.4381985,44.7298876
+"358","Coushatta","LA",1,"Coushatta ,  LA",-93.3421165,32.0148834
+"359","Covina","CA",1,"Covina ,  CA",-117.8903397,34.0900091
+"360","Covington","GA",2,"Covington ,  GA",-83.8601827,33.5967815
+"361","Covington","LA",1,"Covington ,  LA",-90.1009108,30.4754702
+"362","Crandon","WI",2,"Crandon ,  WI",-88.9028922,45.5719072
+"363","Crawford County","OH",1,"Crawford County ,  OH",-82.9931607,40.8268068
+"364","Crenshaw County","AL",1,"Crenshaw County ,  AL",-86.3376761,31.6671872
+"365","Crescent City","FL",1,"Crescent City ,  FL",-81.5106288,29.4302514
+"366","Crowley","LA",1,"Crowley ,  LA",-92.3745761,30.2140928
+"367","Crystal","MN",1,"Crystal ,  MN",-93.3602286,45.0327425
+"368","Crystal Springs","FL",1,"Crystal Springs ,  FL",-82.1575843,28.1814008
+"369","Culpeper","VA",1,"Culpeper ,  VA",-77.9962512,38.4729632
+"370","Cumming","GA",3,"Cumming ,  GA",-84.1401926,34.2073196
+"371","Cushing","OK",1,"Cushing ,  OK",-96.76697,35.9850639
+"372","Dade City","FL",1,"Dade City ,  FL",-82.1959178,28.3647248
+"373","Dadeville","AL",1,"Dadeville ,  AL",-85.7635692,32.831238
+"374","Dakota City","IA",1,"Dakota City ,  IA",-94.1971836,42.7221935
+"375","Dallas","TX",9,"Dallas ,  TX",-96.7969879,32.7766642
+"376","Dalton","IL",1,"Dalton ,  IL",-87.607268,41.6389236
+"377","Danville","IL",1,"Danville ,  IL",-87.6300207,40.124481
+"378","Danville","VA",2,"Danville ,  VA",-79.3950228,36.5859718
+"379","Darlington County","SC",1,"Darlington County ,  SC",-80.0087746,34.3649897
+"380","Davenport","IA",2,"Davenport ,  IA",-90.5776367,41.5236437
+"381","Daviess County","KY",1,"Daviess County ,  KY",-87.1023746,37.7307984
+"382","Dayton","OH",2,"Dayton ,  OH",-84.1916069,39.7589478
+"383","Dearborn","MI",1,"Dearborn ,  MI",-83.1763145,42.3222599
+"384","Decatur","GA",1,"Decatur ,  GA",-84.2963123,33.7748275
+"385","Decatur County","TN",1,"Decatur County ,  TN",-88.1291387,35.595087
+"386","Deer Park","WA",1,"Deer Park ,  WA",-117.476891,47.9543375
+"387","Deerfield","IL",1,"Deerfield ,  IL",-87.8445119,42.1711365
+"388","Del Mar","CA",1,"Del Mar ,  CA",-117.2653146,32.9594891
+"389","Deland","FL",1,"Deland ,  FL",-81.3031179,29.028318
+"390","DeLand","FL",2,"DeLand ,  FL",-81.3031179,29.028318
+"391","Delano","CA",1,"Delano ,  CA",-119.2470536,35.7688425
+"392","Delaware","OH",1,"Delaware ,  OH",-83.067965,40.2986724
+"393","Delhi","CA",1,"Delhi ,  CA",-120.7785354,37.4321589
+"394","Delray Beach","FL",2,"Delray Beach ,  FL",-80.0728201,26.4614625
+"395","Deltona","FL",4,"Deltona ,  FL",-81.2636738,28.9005446
+"396","Deming","NM",1,"Deming ,  NM",-107.7586404,32.2686981
+"397","Denham Springs","LA",1,"Denham Springs ,  LA",-90.9562125,30.4868564
+"398","Denton","TX",2,"Denton ,  TX",-97.1330683,33.2148412
+"399","Denver","CO",15,"Denver ,  CO",-104.990251,39.7392358
+"400","Derry","NH",1,"Derry ,  NH",-71.3273346,42.8806437
+"401","Des Moines","IA",3,"Des Moines ,  IA",-93.6249593,41.5868353
+"402","Des Moines","WA",2,"Des Moines ,  WA",-122.3242901,47.4017661
+"403","Desert Hot Springs","CA",1,"Desert Hot Springs ,  CA",-116.5016784,33.961124
+"404","DeSoto","TX",1,"DeSoto ,  TX",-96.8570738,32.5896998
+"405","Detroit","MI",6,"Detroit ,  MI",-83.0457538,42.331427
+"406","Devil's Lake","ND",1,"Devil's Lake ,  ND",-98.8651202,48.112779
+"407","Dickson","TN",1,"Dickson ,  TN",-87.3877899,36.0770048
+"408","Dilley","TX",1,"Dilley ,  TX",-99.1705887,28.6674802
+"409","Dillon","MT",1,"Dillon ,  MT",-112.6389244,45.2166324
+"410","Dinosaur","CO",1,"Dinosaur ,  CO",-109.0145613,40.243578
+"411","Dinuba","CA",1,"Dinuba ,  CA",-119.3870656,36.5432837
+"412","District Heights","MD",1,"District Heights ,  MD",-76.8894171,38.8576128
+"413","Dolton","IL",1,"Dolton ,  IL",-87.607268,41.6389236
+"414","Douglas","AZ",1,"Douglas ,  AZ",-109.5453447,31.3445471
+"415","Douglas","GA",1,"Douglas ,  GA",-82.8498654,31.5088073
+"416","Douglas","WY",2,"Douglas ,  WY",-105.3822069,42.7596897
+"417","Douglas City","CA",1,"Douglas City ,  CA",-122.9438195,40.6518023
+"418","Douglasville","GA",2,"Douglasville ,  GA",-84.7477136,33.7514966
+"419","Dover","AR",1,"Dover ,  AR",-93.1143407,35.4014712
+"420","Dover","DE",1,"Dover ,  DE",-75.5243682,39.158168
+"421","Downey","CA",1,"Downey ,  CA",-118.1331593,33.9401088
+"422","Draper","UT",1,"Draper ,  UT",-111.8638226,40.5246711
+"423","Dublin","NC",1,"Dublin ,  NC",-78.726407,34.6568361
+"424","Dundalk","MD",1,"Dundalk ,  MD",-76.5205184,39.2506633
+"425","Dunsmuir","CA",2,"Dunsmuir ,  CA",-122.2719529,41.2082089
+"426","Dunwoody","GA",1,"Dunwoody ,  GA",-84.3346473,33.9462125
+"427","Durham","CA",1,"Durham ,  CA",-121.7999767,39.6462733
+"428","Durham","NC",5,"Durham ,  NC",-78.898619,35.9940329
+"429","Eagan","MN",1,"Eagan ,  MN",-93.1668858,44.8041322
+"430","Eagar","AZ",2,"Eagar ,  AZ",-109.291475,34.1111581
+"431","Eagle Mountain","UT",1,"Eagle Mountain ,  UT",-112.006882,40.3141169
+"432","East Baton Rouge","LA",1,"East Baton Rouge ,  LA",-91.09694,30.5693593
+"433","East Bernstadt","KY",1,"East Bernstadt ,  KY",-84.1177098,37.1895318
+"434","East Flat Rock","NC",1,"East Flat Rock ,  NC",-82.4220631,35.2801166
+"435","East Hollywood","CA",1,"East Hollywood ,  CA",-118.2935891,34.091341
+"436","East Los Angeles","CA",1,"East Los Angeles ,  CA",-118.1669736,34.0224417
+"437","East Point","GA",2,"East Point ,  GA",-84.4393724,33.6795531
+"438","East Ridge","TN",1,"East Ridge ,  TN",-85.2256635,34.9947441
+"439","East St. Louis","IL",1,"East St. Louis ,  IL",-90.1506465,38.624514
+"440","East Stroudsburg","PA",1,"East Stroudsburg ,  PA",-75.1812913,40.9995386
+"441","East Troy","WI",1,"East Troy ,  WI",-88.405096,42.7852922
+"442","East Wenatchee","WA",1,"East Wenatchee ,  WA",-120.2931263,47.4156824
+"443","Eastaboga","AL",1,"Eastaboga ,  AL",-86.0187907,33.6070215
+"444","Eaton Rapids Township","MI",1,"Eaton Rapids Township ,  MI",-84.7524482,42.5681472
+"445","Eau Claire","WI",4,"Eau Claire ,  WI",-91.4984941,44.811349
+"446","Ebey Island","WA",1,"Ebey Island ,  WA",-122.1618,47.9695409
+"447","Eden","GA",1,"Eden ,  GA",-81.3906678,32.173813
+"448","Edgewater","FL",1,"Edgewater ,  FL",-80.9022758,28.9888754
+"449","Edgewood","NM",1,"Edgewood ,  NM",-106.1914141,35.0614358
+"450","Edinburg","NY",1,"Edinburg ,  NY",-74.1040191,43.2217388
+"451","Edinburg","TX",1,"Edinburg ,  TX",-98.1633432,26.3017374
+"452","Edmond","OK",1,"Edmond ,  OK",-97.4780954,35.6528323
+"453","Edmonton","KY",1,"Edmonton ,  KY",-85.6121906,36.9800563
+"454","Efland","NC",1,"Efland ,  NC",-79.1690315,36.0811881
+"455","El Cajon","CA",2,"El Cajon ,  CA",-116.9625269,32.7947731
+"456","El Monte","CA",1,"El Monte ,  CA",-118.0275667,34.0686206
+"457","El Paso","TX",8,"El Paso ,  TX",-106.4850217,31.7618778
+"458","El Sereno","CA",1,"El Sereno ,  CA",-118.1786407,34.0735812
+"459","Elberton","GA",1,"Elberton ,  GA",-82.8670839,34.1112226
+"460","Eldorado Springs","CO",1,"Eldorado Springs ,  CO",-105.2769348,39.9324862
+"461","Elgin","IL",1,"Elgin ,  IL",-88.2825668,42.0354084
+"462","Elizabethton","TN",1,"Elizabethton ,  TN",-82.2106876,36.3487196
+"463","Elizabethtown","KY",3,"Elizabethtown ,  KY",-85.8649408,37.7030646
+"464","Elk Grove","CA",2,"Elk Grove ,  CA",-121.3716178,38.4087993
+"465","Elk Plain","WA",1,"Elk Plain ,  WA",-122.39762,47.0531551
+"466","Elkhart","IN",2,"Elkhart ,  IN",-85.9766671,41.6819935
+"467","Elkhorn","WI",1,"Elkhorn ,  WI",-88.5445447,42.6727927
+"468","Elkins","WV",1,"Elkins ,  WV",-79.8467349,38.9259397
+"469","Elko","NV",1,"Elko ,  NV",-115.7631232,40.8324211
+"470","Elkridge","MD",1,"Elkridge ,  MD",-76.7625073,39.1978788
+"471","Elkton","MD",2,"Elkton ,  MD",-75.8332718,39.6067789
+"472","Ellis County","TX",2,"Ellis County ,  TX",-96.8350999,32.2619765
+"473","Elmira","NY",1,"Elmira ,  NY",-76.8077338,42.0897965
+"474","Elsmere","KY",1,"Elsmere ,  KY",-84.6046663,39.0125608
+"475","Emeryville","CA",2,"Emeryville ,  CA",-122.2852473,37.831316
+"476","Emporia","VA",1,"Emporia ,  VA",-77.5424809,36.6859829
+"477","Encinitas","CA",1,"Encinitas ,  CA",-117.2919818,33.0369867
+"478","England","AR",1,"England ,  AR",-91.9690284,34.5442609
+"479","Englewood","CO",1,"Englewood ,  CO",-104.9877597,39.6477653
+"480","Englewood","FL",1,"Englewood ,  FL",-82.3525952,26.9620053
+"481","Englewood","OH",1,"Englewood ,  OH",-84.3021672,39.8775553
+"482","English","IN",1,"English ,  IN",-86.4641498,38.3345045
+"483","Enid","OK",1,"Enid ,  OK",-97.8783911,36.3955891
+"484","Enoree","SC",1,"Enoree ,  SC",-81.9650977,34.6565154
+"485","Epping","NH",1,"Epping ,  NH",-71.0735476,43.0534843
+"486","Escondido","CA",1,"Escondido ,  CA",-117.086421,33.1192068
+"487","Essex","MD",1,"Essex ,  MD",-76.474962,39.3092743
+"488","Estill Springs","TN",1,"Estill Springs ,  TN",-86.1280417,35.2706372
+"489","Eufaula","AL",1,"Eufaula ,  AL",-85.1454876,31.8912717
+"490","Eufaula","OK",1,"Eufaula ,  OK",-95.5824846,35.2873206
+"491","Eugene","OR",4,"Eugene ,  OR",-123.0867536,44.0520691
+"492","Euless","TX",2,"Euless ,  TX",-97.0819541,32.8370727
+"493","Eureka","CA",1,"Eureka ,  CA",-124.1636729,40.8020712
+"494","Eustis","FL",2,"Eustis ,  FL",-81.6853534,28.8527675
+"495","Evangeline Parish","LA",1,"Evangeline Parish ,  LA",-92.3813621,30.7821781
+"496","Evans","CO",2,"Evans ,  CO",-104.6921874,40.3763701
+"497","Evansville","IN",3,"Evansville ,  IN",-87.5710898,37.9715592
+"498","Everett","MA",1,"Everett ,  MA",-71.0536625,42.40843
+"499","Everett","WA",1,"Everett ,  WA",-122.2020795,47.9789848
+"500","Fair Oaks","CA",2,"Fair Oaks ,  CA",-121.2721718,38.6446264
+"501","Fairborn","OH",1,"Fairborn ,  OH",-84.0193789,39.8208925
+"502","Fairchance","PA",1,"Fairchance ,  PA",-79.7544923,39.8247986
+"503","Fairfax","VA",1,"Fairfax ,  VA",-77.3063733,38.8462236
+"504","Fairfield","CA",1,"Fairfield ,  CA",-122.0399663,38.2493581
+"505","Fairfield","CT",1,"Fairfield ,  CT",-73.2612615,41.1408363
+"506","Fairfield","OH",1,"Fairfield ,  OH",-84.5603187,39.3454673
+"507","Fairhope","AL",1,"Fairhope ,  AL",-87.9033261,30.5229719
+"508","Fairland","OK",1,"Fairland ,  OK",-94.8474567,36.7511833
+"509","Fairmont","MN",1,"Fairmont ,  MN",-94.4610832,43.6521775
+"510","Fairview","OH",1,"Fairview ,  OH",-81.2328871,40.0570139
+"511","Fairview","TN",2,"Fairview ,  TN",-87.1213953,35.9820074
+"512","Falcon Heights","MN",1,"Falcon Heights ,  MN",-93.166333,44.9916323
+"513","Falls Church","VA",1,"Falls Church ,  VA",-77.1710914,38.882334
+"514","Farmington","AR",1,"Farmington ,  AR",-94.2471515,36.0420248
+"515","Farmington","NM",2,"Farmington ,  NM",-108.2186856,36.7280583
+"516","Fayetteville","NC",3,"Fayetteville ,  NC",-78.8783585,35.0526641
+"517","Federal Way","WA",2,"Federal Way ,  WA",-122.3126222,47.3223221
+"518","Findlay","OH",1,"Findlay ,  OH",-83.6499321,41.04422
+"519","Finney County","KS",1,"Finney County ,  KS",-100.8903099,38.0625252
+"520","Fishers","IN",1,"Fishers ,  IN",-86.01335,39.9567548
+"521","Fisty","KY",1,"Fisty ,  KY",-83.1013964,37.3352367
+"522","Flagstaff","AZ",5,"Flagstaff ,  AZ",-111.651302,35.1982836
+"523","Flatwoods","KY",2,"Flatwoods ,  KY",-82.7171081,38.5225804
+"524","Fletcher","NC",1,"Fletcher ,  NC",-82.5012316,35.4306712
+"525","Floral City","FL",2,"Floral City ,  FL",-82.2967581,28.7499876
+"526","Florence","CA",2,"Florence ,  CA",-118.2481287,33.9744592
+"527","Florence","OR",1,"Florence ,  OR",-124.099841,43.9826214
+"528","Florence","SC",1,"Florence ,  SC",-79.7625625,34.1954331
+"529","Florida City","FL",1,"Florida City ,  FL",-80.4792237,25.4478898
+"530","Florissant","MO",1,"Florissant ,  MO",-90.322614,38.789217
+"531","Floyd County","GA",1,"Floyd County ,  GA",-85.2308414,34.2828967
+"532","Follansbee","WV",1,"Follansbee ,  WV",-80.5959065,40.3275693
+"533","Fond du Lac","WI",1,"Fond du Lac ,  WI",-88.4470508,43.7730448
+"534","Fontana","CA",3,"Fontana ,  CA",-117.435048,34.0922335
+"535","Forest Park","GA",1,"Forest Park ,  GA",-84.3690918,33.6220542
+"536","Forks Township","PA",1,"Forks Township ,  PA",-75.2128996,40.7345429
+"537","Fort Ashby","WV",1,"Fort Ashby ,  WV",-78.7686297,39.5031465
+"538","Fort Collins","CO",3,"Fort Collins ,  CO",-105.084423,40.5852602
+"539","Fort Lauderdale","FL",1,"Fort Lauderdale ,  FL",-80.1373174,26.1224386
+"540","Fort Littleton","PA",1,"Fort Littleton ,  PA",-77.9636513,40.0626872
+"541","Fort Madison","IA",1,"Fort Madison ,  IA",-91.314535,40.6297634
+"542","Fort Morgan","CO",1,"Fort Morgan ,  CO",-103.7999509,40.2502582
+"543","Fort Myers","FL",1,"Fort Myers ,  FL",-81.8723084,26.640628
+"544","Fort Pierce","FL",2,"Fort Pierce ,  FL",-80.3256056,27.4467056
+"545","Fort Smith","AR",2,"Fort Smith ,  AR",-94.3985475,35.3859242
+"546","Fort Smith","OK",1,"Fort Smith ,  OK",-94.3985475,35.3859242
+"547","Fort Stockton","TX",1,"Fort Stockton ,  TX",-102.8793222,30.8940431
+"548","Fort Valley","GA",1,"Fort Valley ,  GA",-83.8874084,32.5537585
+"549","Fort Walton Beach","FL",1,"Fort Walton Beach ,  FL",-86.6170308,30.4200708
+"550","Fort Washington","MD",1,"Fort Washington ,  MD",-77.0230313,38.7073379
+"551","Fort Wayne","IN",4,"Fort Wayne ,  IN",-85.1393513,41.079273
+"552","Fort Worth","TX",6,"Fort Worth ,  TX",-97.3307658,32.7554883
+"553","Fountain","CO",1,"Fountain ,  CO",-104.7008056,38.682219
+"554","Fountain Inn","SC",1,"Fountain Inn ,  SC",-82.1956679,34.6890095
+"555","Fountain Valley","CA",1,"Fountain Valley ,  CA",-117.9544069,33.7090212
+"556","Fox Crossing","WI",1,"Fox Crossing ,  WI",-88.4968049,44.2306388
+"557","Frametown","WV",1,"Frametown ,  WV",-80.8584357,38.6378762
+"558","Franklin","LA",1,"Franklin ,  LA",-91.5015002,29.7960399
+"559","Franklin","NC",2,"Franklin ,  NC",-83.3815429,35.1823171
+"560","Franklin","TN",1,"Franklin ,  TN",-86.8688899,35.9250637
+"561","Franklin","WI",1,"Franklin ,  WI",-88.0384195,42.888627
+"562","Frederica","DE",1,"Frederica ,  DE",-75.4657542,39.0090017
+"563","Frederickstown","WA",1,"Frederickstown ,  WA",-90.2940069,37.5597754
+"564","Freeport","TX",1,"Freeport ,  TX",-95.3596617,28.9541368
+"565","Fremont","CA",3,"Fremont ,  CA",-121.9885719,37.5482697
+"566","French Lick","IN",1,"French Lick ,  IN",-86.6199914,38.5489431
+"567","Fresno","CA",11,"Fresno ,  CA",-119.7871247,36.7377981
+"568","Friendswood","TX",1,"Friendswood ,  TX",-95.2010447,29.5293998
+"569","Fritch","TX",1,"Fritch ,  TX",-101.603228,35.6397655
+"570","Fruitland Park","FL",1,"Fruitland Park ,  FL",-81.9064705,28.8613765
+"571","Ft. Lauderdale","FL",1,"Ft. Lauderdale ,  FL",-80.1373174,26.1224386
+"572","Fullerton","CA",1,"Fullerton ,  CA",-117.9242123,33.8703645
+"573","Fulshear","TX",1,"Fulshear ,  TX",-95.8998969,29.6931119
+"574","Fulton","KY",1,"Fulton ,  KY",-88.8742259,36.5042277
+"575","Fuqua","TX",1,"Fuqua ,  TX",-94.7363152,30.4471514
+"576","Gainesville","FL",2,"Gainesville ,  FL",-82.3248262,29.6516344
+"577","Gainesville","GA",1,"Gainesville ,  GA",-83.8240663,34.2978794
+"578","Gallatin","TN",1,"Gallatin ,  TN",-86.4466599,36.3883809
+"579","Gallup","NM",1,"Gallup ,  NM",-108.7425843,35.5280783
+"580","Garden City","ID",1,"Garden City ,  ID",-116.2381744,43.6221108
+"581","Gardena","CA",2,"Gardena ,  CA",-118.3089624,33.8883487
+"582","Gardner","KS",1,"Gardner ,  KS",-94.9271868,38.8108408
+"583","Gardnerville Ranchos","NV",1,"Gardnerville Ranchos ,  NV",-119.7412875,38.8882398
+"584","Garland","TX",4,"Garland ,  TX",-96.6388833,32.912624
+"585","Gary","IN",4,"Gary ,  IN",-87.3371523,41.6020403
+"586","Gaston County","NC",1,"Gaston County ,  NC",-81.2078164,35.2895651
+"587","Gastonia","NC",3,"Gastonia ,  NC",-81.1873005,35.262082
+"588","Gautier","MS",1,"Gautier ,  MS",-88.6116854,30.385755
+"589","Genesee Township","MI",1,"Genesee Township ,  MI",-83.6135572,43.0935147
+"590","Geneva","WI",2,"Geneva ,  WI",-88.4597673,42.6386048
+"591","Geneva Township","OH",1,"Geneva Township ,  OH",-80.9650023,41.8213181
+"592","Georgetown","KY",1,"Georgetown ,  KY",-84.5588311,38.2097967
+"593","Germantown","PA",1,"Germantown ,  PA",-75.1749671,40.028521
+"594","Gibson","LA",1,"Gibson ,  LA",-90.990653,29.6868756
+"595","Gibson County","TN",1,"Gibson County ,  TN",-88.864698,35.9969735
+"596","Gifford","FL",1,"Gifford ,  FL",-80.4092181,27.6753089
+"597","Gilbert","AZ",1,"Gilbert ,  AZ",-111.789027,33.3528264
+"598","Gilbert","MN",1,"Gilbert ,  MN",-92.4649052,47.4888156
+"599","Gillette","WY",1,"Gillette ,  WY",-105.5022205,44.2910915
+"600","Gilmer","TX",1,"Gilmer ,  TX",-94.9424379,32.7287472
+"601","Girard","OH",1,"Girard ,  OH",-80.7014662,41.1539465
+"602","Glade Spring","VA",1,"Glade Spring ,  VA",-81.7712324,36.791225
+"603","Gladewater","TX",1,"Gladewater ,  TX",-94.9427168,32.5365333
+"604","Glendale","AZ",8,"Glendale ,  AZ",-112.1859866,33.5386523
+"605","Glenville","NY",1,"Glenville ,  NY",-74.0520717,42.9292419
+"606","Golden","CO",1,"Golden ,  CO",-105.2210997,39.755543
+"607","Golden Shores","AZ",1,"Golden Shores ,  AZ",-114.4741201,34.7862833
+"608","Golden Valley","AZ",1,"Golden Valley ,  AZ",-114.2230108,35.2233311
+"609","Gonic","NH",1,"Gonic ,  NH",-70.9781184,43.2745261
+"610","Goodbee","LA",1,"Goodbee ,  LA",-90.196732,30.495804
+"611","Gooding","ID",1,"Gooding ,  ID",-114.7131081,42.9387917
+"612","Goodyear","AZ",1,"Goodyear ,  AZ",-112.3576567,33.4353394
+"613","Goose Creek","SC",1,"Goose Creek ,  SC",-80.0325867,32.9810059
+"614","Goshen","IN",1,"Goshen ,  IN",-85.8344383,41.5822716
+"615","Grafton","WV",1,"Grafton ,  WV",-80.0189659,39.3409249
+"616","Grand Forks","ND",2,"Grand Forks ,  ND",-97.0328547,47.9252568
+"617","Grand Junction","CO",3,"Grand Junction ,  CO",-108.5506486,39.0638705
+"618","Grand Prarie","TX",1,"Grand Prarie ,  TX",-96.9977846,32.7459645
+"619","Grand Rapids","MI",1,"Grand Rapids ,  MI",-85.6680863,42.9633599
+"620","Grand Terrace","CA",1,"Grand Terrace ,  CA",-117.3136544,34.0339031
+"621","Grandview","MO",1,"Grandview ,  MO",-94.5330096,38.8858407
+"622","Granite Falls","NC",1,"Granite Falls ,  NC",-81.4306457,35.7965205
+"623","Grant-Valkaria","FL",1,"Grant-Valkaria ,  FL",-80.571043,27.939804
+"624","Grapeview","WA",1,"Grapeview ,  WA",-122.8293192,47.3352273
+"625","Gray","TN",1,"Gray ,  TN",-82.4765352,36.4198258
+"626","Grayson County","VA",1,"Grayson County ,  VA",-81.2078164,36.6721195
+"627","Great Falls","MT",1,"Great Falls ,  MT",-111.3007715,47.5052849
+"628","Greece","NY",2,"Greece ,  NY",-77.6930602,43.2097837
+"629","Greeley","CO",4,"Greeley ,  CO",-104.7091322,40.4233142
+"630","Green","OH",1,"Green ,  OH",-81.4831714,40.9458898
+"631","Green Bay","WI",1,"Green Bay ,  WI",-88.0132958,44.5133188
+"632","Greenback","TN",1,"Greenback ,  TN",-84.1721357,35.6611904
+"633","Greenbelt","MD",1,"Greenbelt ,  MD",-76.8755282,39.0045544
+"634","Greene County","MO",1,"Greene County ,  MO",-93.5003454,37.3311215
+"635","Greenfield","WI",1,"Greenfield ,  WI",-88.0125865,42.9614039
+"636","Greensboro","NC",2,"Greensboro ,  NC",-79.7919754,36.0726354
+"637","Greenspoint","TX",1,"Greenspoint ,  TX",-95.4096633,29.9384565
+"638","Greenville","MS",1,"Greenville ,  MS",-91.0377029,33.399661
+"639","Greenville","NC",2,"Greenville ,  NC",-77.3663538,35.612661
+"640","Greenville","SC",3,"Greenville ,  SC",-82.3940104,34.8526176
+"641","Greenville County","SC",1,"Greenville County ,  SC",-82.345189,34.9297484
+"642","Greenwood","IN",1,"Greenwood ,  IN",-86.1066526,39.6136578
+"643","Gresham","OR",2,"Gresham ,  OR",-122.4347334,45.5098388
+"644","Griffin","GA",1,"Griffin ,  GA",-84.2640904,33.2467807
+"645","Grover Beach","CA",1,"Grover Beach ,  CA",-120.6212821,35.1216424
+"646","Grundy","VA",1,"Grundy ,  VA",-82.0990223,37.2778886
+"647","Guadalupe County","TX",1,"Guadalupe County ,  TX",-97.87216,29.6477307
+"648","Gulfport","MS",4,"Gulfport ,  MS",-89.0928155,30.3674198
+"649","Gunlock","KY",1,"Gunlock ,  KY",-82.9259979,37.547597
+"650","Gurnee","IL",1,"Gurnee ,  IL",-87.9020186,42.3702996
+"651","Guthrie","OK",2,"Guthrie ,  OK",-97.4253185,35.878937
+"652","Habersham","GA",1,"Habersham ,  GA",-83.5496566,34.6478893
+"653","Hacienda Heights","CA",1,"Hacienda Heights ,  CA",-117.9686755,33.9930677
+"654","Hackensack","NJ",2,"Hackensack ,  NJ",-74.0434736,40.8859325
+"655","Hackett","AR",1,"Hackett ,  AR",-94.4110494,35.1903732
+"656","Hall County","GA",2,"Hall County ,  GA",-83.804868,34.30778
+"657","Hallandale Beach","FL",1,"Hallandale Beach ,  FL",-80.148379,25.9812024
+"658","Hamilton","NJ",1,"Hamilton ,  NJ",-74.6796651,40.2115109
+"659","Hamilton","OH",2,"Hamilton ,  OH",-84.5613355,39.3995008
+"660","Hammett","ID",1,"Hammett ,  ID",-115.466186,42.9457307
+"661","Hammond","LA",1,"Hammond ,  LA",-90.4611995,30.5043583
+"662","Hampton","GA",1,"Hampton ,  GA",-84.2829784,33.3870578
+"663","Hampton","NH",1,"Hampton ,  NH",-70.8389219,42.9375932
+"664","Hanover","IN",1,"Hanover ,  IN",-85.4735707,38.7142263
+"665","Happy Valley","CA",1,"Happy Valley ,  CA",-120.56222,38.68194
+"666","Hardeeville","SC",2,"Hardeeville ,  SC",-81.0806665,32.2871413
+"667","Hardwick","NJ",2,"Hardwick ,  NJ",-74.9326129,41.0543894
+"668","Harker Heights","TX",1,"Harker Heights ,  TX",-97.6597376,31.0835102
+"669","Harmony","IN",1,"Harmony ,  IN",-87.069919,39.5349663
+"670","Harrisburg","PA",2,"Harrisburg ,  PA",-76.8867008,40.2731911
+"671","Harrisonburg","VA",2,"Harrisonburg ,  VA",-78.8689155,38.4495688
+"672","Harvey","IL",1,"Harvey ,  IL",-87.6467131,41.6100344
+"673","Harvey","LA",2,"Harvey ,  LA",-90.0772944,29.9035387
+"674","Hastings","MN",1,"Hastings ,  MN",-92.8513706,44.7443293
+"675","Hattiesburg","MS",2,"Hattiesburg ,  MS",-89.2903392,31.3271189
+"676","Haughton","LA",1,"Haughton ,  LA",-93.5040627,32.5326514
+"677","Havasu","AZ",1,"Havasu ,  AZ",-114.3224548,34.483901
+"678","Hawaiian Gardens","CA",1,"Hawaiian Gardens ,  CA",-118.0728424,33.8314045
+"679","Hawthorne","CA",1,"Hawthorne ,  CA",-118.3525748,33.9164032
+"680","Haymarket","VA",1,"Haymarket ,  VA",-77.6363806,38.8120591
+"681","Hays","KS",2,"Hays ,  KS",-99.3267702,38.8791783
+"682","Healdton","OK",1,"Healdton ,  OK",-97.4878023,34.2331475
+"683","Helena-West Helena","AR",1,"Helena-West Helena ,  AR",-90.59,34.5291
+"684","Hemet","CA",4,"Hemet ,  CA",-116.9719684,33.7475203
+"685","Henderson","NC",1,"Henderson ,  NC",-78.3991638,36.3295905
+"686","Henderson","NV",2,"Henderson ,  NV",-114.9817213,36.0395247
+"687","Henderson County","TX",1,"Henderson County ,  TX",-95.8142885,32.1321367
+"688","Hendersonville","NC",1,"Hendersonville ,  NC",-82.4609528,35.3187279
+"689","Hendersonville","TN",1,"Hendersonville ,  TN",-86.6199957,36.3047735
+"690","Henrico","VA",1,"Henrico ,  VA",-78.616433,36.592528
+"691","Hensley","WV",1,"Hensley ,  WV",-81.6998327,37.4740011
+"692","Hereford","TX",1,"Hereford ,  TX",-102.3977036,34.8150622
+"693","Herndon","VA",1,"Herndon ,  VA",-77.3860976,38.9695545
+"694","Hessel","MI",1,"Hessel ,  MI",-84.3387489,46.0309332
+"695","Hesston","KS",1,"Hesston ,  KS",-97.4314267,38.1383437
+"696","Hickory","NC",1,"Hickory ,  NC",-81.3444573,35.7344538
+"697","Highgrove","CA",1,"Highgrove ,  CA",-117.3333772,34.0158479
+"698","Highland","CA",1,"Highland ,  CA",-117.2086513,34.1283442
+"699","Hillsboro","OR",1,"Hillsboro ,  OR",-122.9365835,45.5200114
+"700","Hillyard","WA",1,"Hillyard ,  WA",-117.3663252,47.7007255
+"701","Hiram","GA",1,"Hiram ,  GA",-84.7621592,33.8756601
+"702","Hiseville","KY",1,"Hiseville ,  KY",-85.8124723,37.1008864
+"703","Hixson","TN",1,"Hixson ,  TN",-85.2368219,35.137265
+"704","Hobbs","NM",3,"Hobbs ,  NM",-103.1360403,32.7026116
+"705","Hohenwald","TN",1,"Hohenwald ,  TN",-87.5519628,35.5478513
+"706","Holiday","FL",1,"Holiday ,  FL",-82.7395454,28.18779
+"707","Holland Township","MI",2,"Holland Township ,  MI",-86.0883895,42.8128096
+"708","Hollywood","CA",1,"Hollywood ,  CA",-118.3286614,34.0928092
+"709","Hollywood Hills","CA",2,"Hollywood Hills ,  CA",-118.3520389,34.1176605
+"710","Homedale","ID",1,"Homedale ,  ID",-116.9337599,43.6176584
+"711","Homer","LA",1,"Homer ,  LA",-93.055718,32.7918133
+"712","Homestead","FL",2,"Homestead ,  FL",-80.4775569,25.4687224
+"713","Hometown","WV",1,"Hometown ,  WV",-81.8612444,38.5328674
+"714","Homewood","AL",4,"Homewood ,  AL",-86.8008228,33.4717732
+"715","Hominy","OK",1,"Hominy ,  OK",-96.3952963,36.4142357
+"716","Hoover","AL",1,"Hoover ,  AL",-86.8113781,33.4053867
+"717","Hopewell","VA",1,"Hopewell ,  VA",-77.2872001,37.3043154
+"718","Horseheads","NY",1,"Horseheads ,  NY",-76.8205119,42.167019
+"719","Houma","LA",3,"Houma ,  LA",-90.7195348,29.5957696
+"720","Houston","TX",30,"Houston ,  TX",-95.3698028,29.7604267
+"721","Howland Township","OH",1,"Howland Township ,  OH",-80.7325287,41.2576207
+"722","Hudson","NC",1,"Hudson ,  NC",-81.4959267,35.8484645
+"723","Hudson","OH",1,"Hudson ,  OH",-81.440667,41.240056
+"724","Humboldt","TN",1,"Humboldt ,  TN",-88.9158953,35.8197917
+"725","Hummelstown","PA",1,"Hummelstown ,  PA",-76.7083033,40.2653681
+"726","Hunters","WA",1,"Hunters ,  WA",-118.2022917,48.1171945
+"727","Huntersville","NC",2,"Huntersville ,  NC",-80.8428504,35.410694
+"728","Huntingdon County","PA",1,"Huntingdon County ,  PA",-78.0195387,40.4155273
+"729","Huntington Beach","CA",2,"Huntington Beach ,  CA",-117.9988026,33.6594835
+"730","Huntsville","AL",7,"Huntsville ,  AL",-86.5861037,34.7303688
+"731","Hurst","IL",1,"Hurst ,  IL",-89.1428573,37.8331059
+"732","Hurst","TX",1,"Hurst ,  TX",-97.1705678,32.8234621
+"733","Hutchins","TX",1,"Hutchins ,  TX",-96.7130521,32.6492999
+"734","Hutchinson","KS",2,"Hutchinson ,  KS",-97.9297743,38.0608445
+"735","Hutchinson","MN",1,"Hutchinson ,  MN",-94.3692926,44.8925483
+"736","Idaho Falls","ID",2,"Idaho Falls ,  ID",-111.8431068,43.5427278
+"737","Ideal Beach","NJ",1,"Ideal Beach ,  NJ",-74.1198036,40.4472272
+"738","Immokalee","FL",1,"Immokalee ,  FL",-81.4174057,26.4185248
+"739","Independence","MO",1,"Independence ,  MO",-94.4155068,39.0911161
+"740","Independence","VA",1,"Independence ,  VA",-81.150923,36.6223478
+"741","Indianapolis","IN",13,"Indianapolis ,  IN",-86.158068,39.768403
+"742","Indiantown","FL",1,"Indiantown ,  FL",-80.4856083,27.0272756
+"743","Indio","CA",2,"Indio ,  CA",-116.2155619,33.7205771
+"744","Inglewood","CA",2,"Inglewood ,  CA",-118.3531311,33.9616801
+"745","Inwood","WV",1,"Inwood ,  WV",-78.0399994,39.3578781
+"746","Iredell County","NC",1,"Iredell County ,  NC",-80.8986502,35.8310501
+"747","Irmo","SC",2,"Irmo ,  SC",-81.1831513,34.0859829
+"748","Irvine","CA",1,"Irvine ,  CA",-117.8265049,33.6845673
+"749","Irving","TX",4,"Irving ,  TX",-96.9488945,32.8140177
+"750","Ishpeming Township","MI",1,"Ishpeming Township ,  MI",-87.6876933,46.6086225
+"751","Islip","NY",1,"Islip ,  NY",-73.2103934,40.7298207
+"752","Iuka","MS",2,"Iuka ,  MS",-88.1900415,34.8117565
+"753","Iva","SC",1,"Iva ,  SC",-82.663743,34.3064966
+"754","Jackson","GA",2,"Jackson ,  GA",-83.9660209,33.2945651
+"755","Jackson","MI",1,"Jackson ,  MI",-84.3542049,42.1764362
+"756","Jackson","MS",2,"Jackson ,  MS",-90.1848103,32.2987573
+"757","Jackson","WI",1,"Jackson ,  WI",-88.1667599,43.3238919
+"758","Jackson County","AL",1,"Jackson County ,  AL",-86.0121573,34.7090388
+"759","Jacksonsville","FL",1,"Jacksonsville ,  FL",-81.655651,30.3321838
+"760","Jacksonville","AR",1,"Jacksonville ,  AR",-92.1101458,34.8662005
+"761","Jacksonville","FL",16,"Jacksonville ,  FL",-81.655651,30.3321838
+"762","Jal","NM",1,"Jal ,  NM",-103.1935127,32.1131814
+"763","Jean","NV",1,"Jean ,  NV",-115.3238828,35.778868
+"764","Jefferson City","MO",1,"Jefferson City ,  MO",-92.1735164,38.5767017
+"765","Jefferson County","ID",1,"Jefferson County ,  ID",-112.2493671,43.7640903
+"766","Jeffersonville","OH",1,"Jeffersonville ,  OH",-83.5638094,39.6536719
+"767","Jennings","MO",1,"Jennings ,  MO",-90.2603903,38.7192175
+"768","Jerseyville","IL",1,"Jerseyville ,  IL",-90.3284479,39.1200471
+"769","Jesup","GA",1,"Jesup ,  GA",-81.8853924,31.6074365
+"770","Johns Creek","GA",1,"Johns Creek ,  GA",-84.198579,34.0289259
+"771","Johnson City","TN",2,"Johnson City ,  TN",-82.3534727,36.3134397
+"772","Johnsonville","SC",1,"Johnsonville ,  SC",-79.4492228,33.8179432
+"773","Johnstown","PA",1,"Johnstown ,  PA",-78.9219698,40.3267407
+"774","Joilet","IL",1,"Joilet ,  IL",-88.0817251,41.525031
+"775","Jonesboro","AR",1,"Jonesboro ,  AR",-90.704279,35.8422967
+"776","Jonesborough","TN",1,"Jonesborough ,  TN",-82.4734787,36.2942722
+"777","Joplin","MO",1,"Joplin ,  MO",-94.513281,37.0842271
+"778","Josephine County","OR",1,"Josephine County ,  OR",-123.4568737,42.3447572
+"779","Joshua Tree","CA",1,"Joshua Tree ,  CA",-116.3130661,34.134728
+"780","Jourdanton","TX",1,"Jourdanton ,  TX",-98.5464068,28.9180294
+"781","Junction City","KS",1,"Junction City ,  KS",-96.8313978,39.0286093
+"782","Jupiter","FL",1,"Jupiter ,  FL",-80.0942087,26.9342246
+"783","Jurupa Valley","CA",2,"Jurupa Valley ,  CA",-117.4854802,33.9971974
+"784","Kansas City","KS",2,"Kansas City ,  KS",-94.6267873,39.1155314
+"785","Kansas City","MO",15,"Kansas City ,  MO",-94.5785667,39.0997265
+"786","Katy","TX",1,"Katy ,  TX",-95.8243956,29.7857853
+"787","Kearny","AZ",1,"Kearny ,  AZ",-110.9106656,33.0570085
+"788","Kelso","WA",2,"Kelso ,  WA",-122.9084445,46.146779
+"789","Kendale Lakes","FL",1,"Kendale Lakes ,  FL",-80.4069986,25.7081577
+"790","Kenner","LA",1,"Kenner ,  LA",-90.2417434,29.9940924
+"791","Kennewick","WA",2,"Kennewick ,  WA",-119.119948,46.2086683
+"792","Kenosha","WI",1,"Kenosha ,  WI",-87.8211854,42.5847425
+"793","Kent","OH",2,"Kent ,  OH",-81.3578859,41.1536674
+"794","Kent","WA",1,"Kent ,  WA",-122.2348432,47.3809335
+"795","Kent Station","WA",1,"Kent Station ,  WA",-122.2348948,47.3842085
+"796","Kentwood","MI",2,"Kentwood ,  MI",-85.6447492,42.8694731
+"797","Kerrville","TX",2,"Kerrville ,  TX",-99.1403189,30.0474332
+"798","Kettering","OH",2,"Kettering ,  OH",-84.1688274,39.6895036
+"799","Killeen","AL",1,"Killeen ,  AL",-87.5375253,34.8628637
+"800","Killeen","TX",1,"Killeen ,  TX",-97.7277959,31.1171194
+"801","King City","OR",1,"King City ,  OR",-122.8044946,45.4026959
+"802","King George","VA",1,"King George ,  VA",-77.1807842,38.2664512
+"803","Kingman","AZ",5,"Kingman ,  AZ",-114.0530065,35.189443
+"804","Kings County","CA",1,"Kings County ,  CA",-119.8815203,36.0988489
+"805","Kings Mountain","NC",1,"Kings Mountain ,  NC",-81.3411942,35.2451342
+"806","Kingsbury","TX",1,"Kingsbury ,  TX",-97.8280575,29.6480061
+"807","Kingsland","GA",1,"Kingsland ,  GA",-81.6898261,30.7999563
+"808","Kingwood","TX",1,"Kingwood ,  TX",-95.1902986,30.0575359
+"809","Kinston","NC",1,"Kinston ,  NC",-77.5816353,35.2626635
+"810","Kiowa","OK",1,"Kiowa ,  OK",-95.8991586,34.7206515
+"811","Kirkland","WA",2,"Kirkland ,  WA",-122.2059833,47.6768927
+"812","Klamath Falls","OR",2,"Klamath Falls ,  OR",-121.7816704,42.224867
+"813","Knoxville","PA",1,"Knoxville ,  PA",-77.4388719,41.9572933
+"814","Knoxville","TN",1,"Knoxville ,  TN",-83.9207392,35.9606384
+"815","Kokomo","IN",2,"Kokomo ,  IN",-86.1336033,40.486427
+"816","Kuna","ID",1,"Kuna ,  ID",-116.4201223,43.4918307
+"817","Kyle","SD",1,"Kyle ,  SD",-102.1765463,43.4249934
+"818","La Crosse","WI",1,"La Crosse ,  WI",-91.2519017,43.8137751
+"819","La Marque","TX",1,"La Marque ,  TX",-94.9713134,29.3685674
+"820","La Mirada","CA",1,"La Mirada ,  CA",-118.0120086,33.9172357
+"821","La Paz County","AZ",1,"La Paz County ,  AZ",-113.9536466,34.0061091
+"822","La Quinta","CA",1,"La Quinta ,  CA",-116.3100095,33.6633573
+"823","Lacey","WA",1,"Lacey ,  WA",-122.8231915,47.0342629
+"824","Ladera Heights","CA",1,"Ladera Heights ,  CA",-118.3725116,33.9871561
+"825","Lady Lake","FL",1,"Lady Lake ,  FL",-81.9228604,28.9174855
+"826","Lafayette","IN",1,"Lafayette ,  IN",-86.8752869,40.4167022
+"827","LaFollette","TN",1,"LaFollette ,  TN",-84.1199472,36.3828852
+"828","LaGrange","GA",1,"LaGrange ,  GA",-85.0322444,33.0362218
+"829","Laguna Pueblo","NM",1,"Laguna Pueblo ,  NM",-107.3828231,35.0367105
+"830","Lake Asbury","FL",1,"Lake Asbury ,  FL",-81.8214871,30.0491293
+"831","Lake City","SC",1,"Lake City ,  SC",-79.7553451,33.8709958
+"832","Lake Elmo","MN",1,"Lake Elmo ,  MN",-92.8793768,44.9957998
+"833","Lake Elsinore","CA",2,"Lake Elsinore ,  CA",-117.3272615,33.6680772
+"834","Lake Hallie","WI",1,"Lake Hallie ,  WI",-91.4407146,44.8757937
+"835","Lake Havasu City","AZ",1,"Lake Havasu City ,  AZ",-114.3224548,34.483901
+"836","Lake Jackson","TX",2,"Lake Jackson ,  TX",-95.4343859,29.0338575
+"837","Lake Mary","FL",1,"Lake Mary ,  FL",-81.3178446,28.7588833
+"838","Lake Stevens","WA",2,"Lake Stevens ,  WA",-122.0637425,48.015098
+"839","Lake View","SC",1,"Lake View ,  SC",-79.1655946,34.3457189
+"840","Lake Wales","FL",2,"Lake Wales ,  FL",-81.5859099,27.9014133
+"841","Lakeland","FL",5,"Lakeland ,  FL",-81.9498042,28.0394654
+"842","Lakeland","TN",1,"Lakeland ,  TN",-89.7403606,35.2306435
+"843","Lakemoor","IL",1,"Lakemoor ,  IL",-88.1989732,42.3286331
+"844","Lakes Charles","LA",1,"Lakes Charles ,  LA",-93.2173758,30.2265949
+"845","Lakes Wales","FL",1,"Lakes Wales ,  FL",-81.5859099,27.9014133
+"846","Lakeshire","MO",1,"Lakeshire ,  MO",-90.3351164,38.538664
+"847","Lakewood","CO",2,"Lakewood ,  CO",-105.0813734,39.7047095
+"848","Lakewood","WA",2,"Lakewood ,  WA",-122.518458,47.1717649
+"849","Lampe","MO",1,"Lampe ,  MO",-93.4379639,36.5636755
+"850","Lancaster","CA",2,"Lancaster ,  CA",-118.1541632,34.6867846
+"851","Lancaster","KY",1,"Lancaster ,  KY",-84.5779957,37.6195246
+"852","Lancaster","PA",3,"Lancaster ,  PA",-76.1783739,40.0466571
+"853","Lancaster","SC",1,"Lancaster ,  SC",-80.7709014,34.7204257
+"854","Lancaster City","PA",1,"Lancaster City ,  PA",-76.3055144,40.0378755
+"855","Landover","MD",2,"Landover ,  MD",-76.8966397,38.9340002
+"856","Landrum","SC",1,"Landrum ,  SC",-82.1892795,35.1751148
+"857","Lansing","IL",1,"Lansing ,  IL",-87.538931,41.5647575
+"858","Lansing","MI",1,"Lansing ,  MI",-84.5555347,42.732535
+"859","Laramie","WY",1,"Laramie ,  WY",-105.5911007,41.3113669
+"860","Laredo","TX",3,"Laredo ,  TX",-99.5075519,27.5035613
+"861","Largo","FL",1,"Largo ,  FL",-82.7873244,27.9094665
+"862","Larimer County","CO",1,"Larimer County ,  CO",-105.5943388,40.6955572
+"863","Las Cruces","NM",8,"Las Cruces ,  NM",-106.7636538,32.3199396
+"864","Las Vegas","NV",28,"Las Vegas ,  NV",-115.1398296,36.1699412
+"865","Latta","SC",1,"Latta ,  SC",-79.4311616,34.3371047
+"866","Lauderdale County","MS",1,"Lauderdale County ,  MS",-88.7108964,32.4401578
+"867","Lauderdale Lakes","FL",1,"Lauderdale Lakes ,  FL",-80.2083806,26.1664736
+"868","Lauderhill","FL",1,"Lauderhill ,  FL",-80.2133808,26.1403635
+"869","Lawndale","IL",1,"Lawndale ,  IL",-89.2825925,40.2180969
+"870","Lawndale","NC",1,"Lawndale ,  NC",-81.5631474,35.4140187
+"871","Lawrence","IN",1,"Lawrence ,  IN",-86.0252612,39.8386516
+"872","Lawrence County","AL",1,"Lawrence County ,  AL",-87.3016132,34.567428
+"873","Lawrenceburg","KY",1,"Lawrenceburg ,  KY",-84.8966171,38.0372967
+"874","Lawrenceburg","TN",1,"Lawrenceburg ,  TN",-87.3347389,35.2423023
+"875","Lawtey","FL",1,"Lawtey ,  FL",-82.0717733,30.0441284
+"876","Lawton","OK",1,"Lawton ,  OK",-98.3959291,34.6035669
+"877","Lead","SD",1,"Lead ,  SD",-103.7651984,44.3522065
+"878","League City","TX",1,"League City ,  TX",-95.0949303,29.5074538
+"879","Lealman","FL",2,"Lealman ,  FL",-82.6834453,27.8160523
+"880","Leavenworth","KS",1,"Leavenworth ,  KS",-94.9224637,39.3111112
+"881","Lebanon","MO",1,"Lebanon ,  MO",-92.6637865,37.6805967
+"882","Lee's Summit","MO",1,"Lee's Summit ,  MO",-94.3821724,38.9108408
+"883","Lehigh","KS",1,"Lehigh ,  KS",-97.3030858,38.3727872
+"884","Leitchfield","KY",1,"Leitchfield ,  KY",-86.2938637,37.4800544
+"885","Lemon Grove","CA",1,"Lemon Grove ,  CA",-117.0314172,32.7425516
+"886","Lemoore","CA",2,"Lemoore ,  CA",-119.7829107,36.3007835
+"887","Lenoir","NC",2,"Lenoir ,  NC",-81.5389849,35.9140196
+"888","Lenoir City","TN",2,"Lenoir City ,  TN",-84.2560299,35.7972998
+"889","Levelland","TX",1,"Levelland ,  TX",-102.37796,33.5873164
+"890","Lewisburg","TN",1,"Lewisburg ,  TN",-86.7888887,35.4492404
+"891","Lewistown","PA",1,"Lewistown ,  PA",-77.571382,40.5992395
+"892","Lexington","NC",1,"Lexington ,  NC",-80.2533838,35.8240265
+"893","Lexington","SC",1,"Lexington ,  SC",-81.2362107,33.9815369
+"894","Lexington County","SC",1,"Lexington County ,  SC",-81.2518833,33.9309651
+"895","Liberty","MO",1,"Liberty ,  MO",-94.4191177,39.2461138
+"896","Liberty","NC",1,"Liberty ,  NC",-79.5716903,35.8534705
+"897","Lima","OH",1,"Lima ,  OH",-84.1052256,40.742551
+"898","Lincoln","CA",1,"Lincoln ,  CA",-121.2930079,38.891565
+"899","Lincoln","NE",2,"Lincoln ,  NE",-96.7025955,40.813616
+"900","Lincoln Parish","LA",1,"Lincoln Parish ,  LA",-92.6983868,32.598888
+"901","Lisle","IL",1,"Lisle ,  IL",-88.0747875,41.801141
+"902","Little Egg Harbor","NJ",1,"Little Egg Harbor ,  NJ",-74.3572646,39.6108492
+"903","Little Egg Harbor Township","NJ",1,"Little Egg Harbor Township ,  NJ",-74.3572646,39.6108492
+"904","Little Havana","FL",1,"Little Havana ,  FL",-80.2377078,25.7776438
+"905","Little Mountain","SC",1,"Little Mountain ,  SC",-81.4123229,34.1962557
+"906","Little Orleans","MD",1,"Little Orleans ,  MD",-78.3864002,39.625925
+"907","Little Rock","AR",4,"Little Rock ,  AR",-92.2895948,34.7464809
+"908","Littlefield","TX",1,"Littlefield ,  TX",-102.3249022,33.9173148
+"909","Livermore","CA",1,"Livermore ,  CA",-121.7680088,37.6818745
+"910","Livingston","MT",1,"Livingston ,  MT",-110.5599556,45.6614105
+"911","Livingston","TN",1,"Livingston ,  TN",-85.3230221,36.3833961
+"912","Livingston Parish","LA",1,"Livingston Parish ,  LA",-90.6773046,30.4340146
+"913","Lizella","GA",1,"Lizella ,  GA",-83.819985,32.8069216
+"914","Llano","TX",1,"Llano ,  TX",-98.6750379,30.7593452
+"915","Lockhart","TX",1,"Lockhart ,  TX",-97.6699996,29.8849441
+"916","Locust Grove","GA",1,"Locust Grove ,  GA",-84.109083,33.3459495
+"917","Lodge Grass","MT",1,"Lodge Grass ,  MT",-107.3631461,45.3144117
+"918","Lodi","CA",2,"Lodi ,  CA",-121.2722194,38.1341477
+"919","Logan","UT",1,"Logan ,  UT",-111.8338359,41.7369803
+"920","Logan Canyon","UT",1,"Logan Canyon ,  UT",-111.7938314,41.7402088
+"921","Logan County","OK",1,"Logan County ,  OK",-97.5247243,35.9404623
+"922","Lompoc","CA",1,"Lompoc ,  CA",-120.4579409,34.6391501
+"923","London","KY",2,"London ,  KY",-84.0832646,37.1289771
+"924","Lone Rock","AR",1,"Lone Rock ,  AR",-92.3446022,36.1806251
+"925","Long Beach","CA",11,"Long Beach ,  CA",-118.1937395,33.7700504
+"926","Longview","TX",3,"Longview ,  TX",-94.7404891,32.5007037
+"927","Longview","WA",2,"Longview ,  WA",-122.9381672,46.1381676
+"928","Lorena","TX",1,"Lorena ,  TX",-97.2155596,31.3865592
+"929","Los Angeles","CA",46,"Los Angeles ,  CA",-118.2436849,34.0522342
+"930","Los Banos","CA",2,"Los Banos ,  CA",-120.8499151,37.0582786
+"931","Los Lunas","NM",2,"Los Lunas ,  NM",-106.7333599,34.806166
+"932","Louisville","KY",11,"Louisville ,  KY",-85.7584557,38.2526647
+"933","Louisville","NE",1,"Louisville ,  NE",-96.1600132,41.004443
+"934","Loveland","CO",2,"Loveland ,  CO",-105.0749801,40.3977612
+"935","Lovington","NM",1,"Lovington ,  NM",-103.3485543,32.9440077
+"936","Lowell","MA",1,"Lowell ,  MA",-71.3161718,42.6334247
+"937","Lower Burrell","PA",1,"Lower Burrell ,  PA",-79.7209802,40.5849232
+"938","Lower Macungie Township","PA",1,"Lower Macungie Township ,  PA",-75.5626039,40.540989
+"939","Lower Mount Bethel","PA",1,"Lower Mount Bethel ,  PA",-75.1662121,40.8077475
+"940","Loxahatchee","FL",1,"Loxahatchee ,  FL",-80.238888,26.771624
+"941","Lucedale","MS",1,"Lucedale ,  MS",-88.5900235,30.9251869
+"942","Ludowici","GA",1,"Ludowici ,  GA",-81.7423357,31.7079919
+"943","Lufkin","TX",1,"Lufkin ,  TX",-94.729097,31.3382406
+"944","Lumpkin","GA",1,"Lumpkin ,  GA",-84.7990901,32.0509895
+"945","Lynchburg","VA",1,"Lynchburg ,  VA",-79.1422464,37.4137536
+"946","Lyndhurst","NJ",1,"Lyndhurst ,  NJ",-74.1243063,40.8120171
+"947","Lynn","MA",3,"Lynn ,  MA",-70.9494938,42.466763
+"948","Lynnwood","WA",1,"Lynnwood ,  WA",-122.3151314,47.8209301
+"949","Lynwood","CA",1,"Lynwood ,  CA",-118.2114603,33.930293
+"950","Lyons","IL",1,"Lyons ,  IL",-87.8181128,41.8133651
+"951","Mabank","TX",1,"Mabank ,  TX",-96.1008056,32.3665322
+"952","Mableton","GA",2,"Mableton ,  GA",-84.5824329,33.8187167
+"953","Mackinaw","IL",1,"Mackinaw ,  IL",-89.3575913,40.5369829
+"954","Macon","GA",1,"Macon ,  GA",-83.6324022,32.8406946
+"955","Macon County","AL",1,"Macon County ,  AL",-85.684578,32.3731182
+"956","Madera","CA",1,"Madera ,  CA",-120.0607176,36.9613356
+"957","Madison","WI",2,"Madison ,  WI",-89.5497632,43.0186073
+"958","Madison County","MS",1,"Madison County ,  MS",-90.0373201,32.6729459
+"959","Madison Township","OH",2,"Madison Township ,  OH",-81.0533854,41.9858412
+"960","Maeystown","IL",1,"Maeystown ,  IL",-90.2334494,38.224776
+"961","Magna","UT",1,"Magna ,  UT",-112.1016088,40.7091121
+"962","Maiden","NC",1,"Maiden ,  NC",-81.2117473,35.5756889
+"963","Malone","NY",1,"Malone ,  NY",-74.2948983,44.8486596
+"964","Malta","MT",1,"Malta ,  MT",-107.8742831,48.3597197
+"965","Mamou","LA",1,"Mamou ,  LA",-92.4192993,30.6338092
+"966","Manchester","NJ",1,"Manchester ,  NJ",-74.3392821,39.9711696
+"967","Manchester Township","PA",1,"Manchester Township ,  PA",-76.745195,40.003043
+"968","Mandan","ND",1,"Mandan ,  ND",-100.8895761,46.8266603
+"969","Mandeville","LA",1,"Mandeville ,  LA",-90.0656311,30.3582506
+"970","Manhasset","NY",1,"Manhasset ,  NY",-73.6995749,40.7978787
+"971","Manistee","MI",1,"Manistee ,  MI",-86.324253,44.2444473
+"972","Manitowoc","WI",1,"Manitowoc ,  WI",-87.657584,44.0886059
+"973","Mankato","MN",1,"Mankato ,  MN",-93.9993996,44.1635775
+"974","Mannford","OK",1,"Mannford ,  OK",-96.3544571,36.1334101
+"975","Mansfield","OH",1,"Mansfield ,  OH",-82.5154471,40.75839
+"976","Mansfield","TX",1,"Mansfield ,  TX",-97.1416768,32.5631924
+"977","Marana","AZ",2,"Marana ,  AZ",-111.2224422,32.436381
+"978","Maricopa","AZ",1,"Maricopa ,  AZ",-112.0476423,33.0581063
+"979","Marietta","GA",2,"Marietta ,  GA",-84.5499327,33.952602
+"980","Marina","CA",1,"Marina ,  CA",-121.802173,36.6844029
+"981","Marine City","MI",1,"Marine City ,  MI",-82.492132,42.7194778
+"982","Marion","AR",1,"Marion ,  AR",-90.1964835,35.2145336
+"983","Marion","IL",1,"Marion ,  IL",-88.9331256,37.7306054
+"984","Marion","MI",1,"Marion ,  MI",-85.1469835,44.1025148
+"985","Markham","IL",1,"Markham ,  IL",-87.6947699,41.5936453
+"986","Marksville","LA",1,"Marksville ,  LA",-92.0662356,31.1279652
+"987","Maryneal","TX",1,"Maryneal ,  TX",-100.4503797,32.2354051
+"988","Marysville","WA",1,"Marysville ,  WA",-122.1770818,48.0517637
+"989","Mascotte","FL",1,"Mascotte ,  FL",-81.8867451,28.5783313
+"990","Mashantucket","CT",1,"Mashantucket ,  CT",-71.9786626,41.4615182
+"991","Maspeth","NY",1,"Maspeth ,  NY",-73.9065883,40.7294018
+"992","Mathis","TX",1,"Mathis ,  TX",-97.8280543,28.0944558
+"993","Maurice River","NJ",1,"Maurice River ,  NJ",-74.9836584,39.2592235
+"994","Maysville","MO",1,"Maysville ,  MO",-94.3618967,39.8891658
+"995","Maywood","CA",1,"Maywood ,  CA",-118.185349,33.9866807
+"996","McAlester","OK",1,"McAlester ,  OK",-95.7697131,34.9334298
+"997","McKinney","TX",1,"McKinney ,  TX",-96.6397822,33.1972465
+"998","McKinneyville","CA",1,"McKinneyville ,  CA",-124.1006205,40.9465152
+"999","McLemoresville","TN",1,"McLemoresville ,  TN",-88.5745001,35.987286
+"1000","McLoud","OK",1,"McLoud ,  OK",-97.0914163,35.4358996
+"1001","McMinnville","TN",1,"McMinnville ,  TN",-85.7801453,35.6865889
+"1002","McPherson","KS",1,"McPherson ,  KS",-97.6642087,38.3708415
+"1003","Mead Township","PA",1,"Mead Township ,  PA",-79.0419053,41.8103795
+"1004","Meadow Vista","CA",1,"Meadow Vista ,  CA",-121.0218887,39.0010079
+"1005","Medford","OR",2,"Medford ,  OR",-122.8755949,42.3265152
+"1006","Medicine Lodge","KS",1,"Medicine Lodge ,  KS",-98.580361,37.2811339
+"1007","Medina","OH",1,"Medina ,  OH",-81.8552196,41.143245
+"1008","Melba","ID",1,"Melba ,  ID",-116.5290116,43.3754405
+"1009","Melbourne","FL",1,"Melbourne ,  FL",-80.6081089,28.0836269
+"1010","Memphis","TN",9,"Memphis ,  TN",-90.0489801,35.1495343
+"1011","Mena","AR",1,"Mena ,  AR",-94.2396554,34.5862171
+"1012","Merced","CA",1,"Merced ,  CA",-120.4829677,37.3021632
+"1013","Meridian","ID",1,"Meridian ,  ID",-116.3915131,43.6121087
+"1014","Meridian","MS",1,"Meridian ,  MS",-88.703656,32.3643098
+"1015","Meridianville","AL",1,"Meridianville ,  AL",-86.5722154,34.8514782
+"1016","Merrillville","IN",1,"Merrillville ,  IN",-87.3328139,41.4828144
+"1017","Merrimack","NH",1,"Merrimack ,  NH",-71.4948322,42.8678693
+"1018","Mesa","AZ",13,"Mesa ,  AZ",-111.8314724,33.4151843
+"1019","Mesquite","TX",1,"Mesquite ,  TX",-96.5991593,32.7667955
+"1020","Metairie","LA",1,"Metairie ,  LA",-90.1528519,29.9840922
+"1021","Metropolis","IL",2,"Metropolis ,  IL",-88.7319979,37.1511655
+"1022","Miami","FL",19,"Miami ,  FL",-80.1917902,25.7616798
+"1023","Miami","OK",1,"Miami ,  OK",-94.8774554,36.8745146
+"1024","Miami Beach","FL",1,"Miami Beach ,  FL",-80.1300455,25.790654
+"1025","Miami Gardens","FL",1,"Miami Gardens ,  FL",-80.2456045,25.9420377
+"1026","Miami Township","OH",1,"Miami Township ,  OH",-84.2489525,39.6128751
+"1027","Micanopy","FL",1,"Micanopy ,  FL",-82.2798227,29.504692
+"1028","Middle River","MD",1,"Middle River ,  MD",-76.4394056,39.3342744
+"1029","Middleburg","FL",1,"Middleburg ,  FL",-81.8603778,30.0688512
+"1030","Middleton","ID",1,"Middleton ,  ID",-116.6201357,43.7068281
+"1031","Middletown","DE",1,"Middletown ,  DE",-75.7163207,39.449556
+"1032","Middletown","NY",1,"Middletown ,  NY",-74.4229341,41.4459271
+"1033","Midland","MI",1,"Midland ,  MI",-84.2472116,43.6155825
+"1034","Midland","TX",2,"Midland ,  TX",-102.0779146,31.9973456
+"1035","Midlothian","TX",1,"Midlothian ,  TX",-96.9944489,32.482361
+"1036","Midway","FL",1,"Midway ,  FL",-84.4543513,30.4954759
+"1037","Midwest City","OK",1,"Midwest City ,  OK",-97.3967019,35.4495065
+"1038","Milcreek","UT",1,"Milcreek ,  UT",-111.8754907,40.6868914
+"1039","Millbrook","AL",1,"Millbrook ,  AL",-86.3619163,32.4798575
+"1040","Millerton","OK",1,"Millerton ,  OK",-95.0135582,33.9859409
+"1041","Millston","WI",1,"Millston ,  WI",-90.6476354,44.1930179
+"1042","Millville","NJ",1,"Millville ,  NJ",-75.0393438,39.4020596
+"1043","Milton","FL",1,"Milton ,  FL",-87.0396881,30.6324149
+"1044","Milwaukee","WI",9,"Milwaukee ,  WI",-87.9064736,43.0389025
+"1045","Minneapolis","MN",4,"Minneapolis ,  MN",-93.2650108,44.977753
+"1046","Mission","TX",2,"Mission ,  TX",-98.3252932,26.2159066
+"1047","Mississippi County","AR",1,"Mississippi County ,  AR",-90.0746767,35.8279728
+"1048","Missouri City","TX",1,"Missouri City ,  TX",-95.5377215,29.6185669
+"1049","Mitchell","SD",1,"Mitchell ,  SD",-98.0297992,43.7094283
+"1050","Mobile","AL",2,"Mobile ,  AL",-88.0398912,30.6953657
+"1051","Modesto","CA",5,"Modesto ,  CA",-120.9968782,37.6390972
+"1052","Moncks Corner","SC",1,"Moncks Corner ,  SC",-80.0131374,33.1960027
+"1053","Monett","MO",1,"Monett ,  MO",-93.9277071,36.9289502
+"1054","Monon","IN",1,"Monon ,  IN",-86.8789044,40.8678171
+"1055","Monroe","GA",1,"Monroe ,  GA",-83.713229,33.7948364
+"1056","Monroe","LA",1,"Monroe ,  LA",-92.1193012,32.5093109
+"1057","Monroe","NC",1,"Monroe ,  NC",-80.5495112,34.9854275
+"1058","Monroe","WI",1,"Monroe ,  WI",-89.6384532,42.6011194
+"1059","Monroe County","IN",1,"Monroe County ,  IN",-86.4996546,39.1851445
+"1060","Monroeville","AL",1,"Monroeville ,  AL",-87.3247077,31.5279399
+"1061","Montcalm","WV",1,"Montcalm ,  WV",-81.2525993,37.3540054
+"1062","Montclair","CA",1,"Montclair ,  CA",-117.6897776,34.0775104
+"1063","Monteagle","TN",1,"Monteagle ,  TN",-85.8396979,35.2400807
+"1064","Montezuma Creek","UT",1,"Montezuma Creek ,  UT",-109.3010902,37.259367
+"1065","Montgomery","AL",2,"Montgomery ,  AL",-86.3077368,32.3792233
+"1066","Montgomery County","VA",1,"Montgomery County ,  VA",-80.4103957,37.2070304
+"1067","Montgomery Village","MD",1,"Montgomery Village ,  MD",-77.2036041,39.172728
+"1068","Monticello","GA",1,"Monticello ,  GA",-83.6832289,33.3048479
+"1069","Montpelier","OH",1,"Montpelier ,  OH",-84.6055076,41.5844951
+"1070","Montpelier","VT",1,"Montpelier ,  VT",-72.5753869,44.2600593
+"1071","Moorland","IA",1,"Moorland ,  IA",-94.2960772,42.4419167
+"1072","Mora","MN",1,"Mora ,  MN",-93.2938352,45.8769031
+"1073","Moraine","OH",1,"Moraine ,  OH",-84.2193849,39.7061702
+"1074","Morehead","KY",1,"Morehead ,  KY",-83.4326841,38.1839705
+"1075","Morenci","AZ",1,"Morenci ,  AZ",-109.3280282,33.0508859
+"1076","Moreno Valley","CA",2,"Moreno Valley ,  CA",-117.2296717,33.9424658
+"1077","Morganton","NC",1,"Morganton ,  NC",-81.6848188,35.7454071
+"1078","Morgantown","WV",2,"Morgantown ,  WV",-79.9558968,39.629526
+"1079","Morris","AL",1,"Morris ,  AL",-86.8086048,33.7481576
+"1080","Morris","MN",1,"Morris ,  MN",-95.9188889,45.5919444
+"1081","Morristown","TN",1,"Morristown ,  TN",-83.2948922,36.2139814
+"1082","Moultrie","GA",1,"Moultrie ,  GA",-83.7888387,31.1799407
+"1083","Mount Hope","WI",1,"Mount Hope ,  WI",-90.8590158,42.9672091
+"1084","Mount Hope","WV",1,"Mount Hope ,  WV",-81.1642682,37.8953906
+"1085","Mount Vernon","NY",1,"Mount Vernon ,  NY",-73.8370786,40.9125992
+"1086","Mount Washington","PA",1,"Mount Washington ,  PA",-80.0115701,40.4276685
+"1087","Mountain Home","ID",1,"Mountain Home ,  ID",-115.6911975,43.1329504
+"1088","Mountain Pine","AR",1,"Mountain Pine ,  AR",-93.1732401,34.5720347
+"1089","Mountain View","CO",1,"Mountain View ,  CO",-105.0555389,39.7744311
+"1090","Mt. Airy","NC",1,"Mt. Airy ,  NC",-80.6072858,36.4993007
+"1091","Mt. Auburn","OH",1,"Mt. Auburn ,  OH",-84.5091102,39.1214868
+"1092","Mt. Pleasant","TN",1,"Mt. Pleasant ,  TN",-87.2069541,35.5342414
+"1093","Muckleshoot Indian Reservation","WA",1,"Muckleshoot Indian Reservation ,  WA",-122.1153222,47.2517197
+"1094","Muncie","IN",3,"Muncie ,  IN",-85.3863599,40.1933767
+"1095","Muscle Shoals","AL",1,"Muscle Shoals ,  AL",-87.6675292,34.7448112
+"1096","Muskogee","OK",1,"Muskogee ,  OK",-95.3696909,35.7478769
+"1097","Myra","TX",1,"Myra ,  TX",-97.3144625,33.6239966
+"1098","Myrtle Beach","SC",2,"Myrtle Beach ,  SC",-78.8866943,33.6890603
+"1099","Nacogdoches","TX",1,"Nacogdoches ,  TX",-94.6554874,31.6035129
+"1100","Nampa","ID",1,"Nampa ,  ID",-116.55978,43.5788175
+"1101","Napa","CA",3,"Napa ,  CA",-122.2653887,38.5024689
+"1102","Naples","FL",1,"Naples ,  FL",-81.7948103,26.1420358
+"1103","Naples","ME",1,"Naples ,  ME",-70.6180214,43.986313
+"1104","Nashua","IA",1,"Nashua ,  IA",-92.5386382,42.9522221
+"1105","Nashville","TN",7,"Nashville ,  TN",-86.7816016,36.1626638
+"1106","Navarre","FL",1,"Navarre ,  FL",-86.9123217,30.4109342
+"1107","Needles","CA",1,"Needles ,  CA",-114.6141315,34.8480597
+"1108","Neenah","WI",1,"Neenah ,  WI",-88.462609,44.1858193
+"1109","Neosho","MO",1,"Neosho ,  MO",-94.367996,36.8689554
+"1110","Neshoba County","MS",1,"Neshoba County ,  MS",-89.1705998,32.8057157
+"1111","Nevada","MO",1,"Nevada ,  MO",-94.3546719,37.8392052
+"1112","New Brunswick","NJ",1,"New Brunswick ,  NJ",-74.4518188,40.4862157
+"1113","New Castle","CO",1,"New Castle ,  CO",-107.5364443,39.5727585
+"1114","New Castle","DE",1,"New Castle ,  DE",-75.5668166,39.6620397
+"1115","New Castle","IN",2,"New Castle ,  IN",-85.3702476,39.928935
+"1116","New City","NY",1,"New City ,  NY",-73.989306,41.1475954
+"1117","New Hope","MN",1,"New Hope ,  MN",-93.3866185,45.0380201
+"1118","New Iberia","LA",1,"New Iberia ,  LA",-91.8187285,30.0035365
+"1119","New Llano","LA",1,"New Llano ,  LA",-93.2715535,31.1149093
+"1120","New London","WI",1,"New London ,  WI",-88.7398256,44.3927582
+"1121","New Milford","CT",1,"New Milford ,  CT",-73.4085463,41.5770433
+"1122","New Orleans","LA",6,"New Orleans ,  LA",-90.0715323,29.9510658
+"1123","New Straitsville","OH",1,"New Straitsville ,  OH",-82.2376489,39.577847
+"1124","New York","NY",13,"New York ,  NY",-74.0059728,40.7127753
+"1125","Newark","CA",1,"Newark ,  CA",-122.0402399,37.5296593
+"1126","Newark","NJ",6,"Newark ,  NJ",-74.1723667,40.735657
+"1127","Newman","CA",1,"Newman ,  CA",-121.0207614,37.3138267
+"1128","Newnan","GA",1,"Newnan ,  GA",-84.7996573,33.3806716
+"1129","Newport","TN",1,"Newport ,  TN",-83.1876578,35.9670412
+"1130","Newport Beach","CA",1,"Newport Beach ,  CA",-117.9298493,33.6188829
+"1131","Newport News","VA",2,"Newport News ,  VA",-76.4730122,37.0870821
+"1132","Newton","KS",2,"Newton ,  KS",-97.3450365,38.0466779
+"1133","Newton","NH",1,"Newton ,  NH",-71.0345018,42.8695335
+"1134","Newton Grove","NC",1,"Newton Grove ,  NC",-78.3541685,35.2451648
+"1135","Nice","CA",1,"Nice ,  CA",-122.848327,39.1232253
+"1136","Niceville","FL",1,"Niceville ,  FL",-86.482172,30.5168639
+"1137","Nocona","TX",1,"Nocona ,  TX",-97.7258626,33.7867684
+"1138","Norco","CA",1,"Norco ,  CA",-117.548661,33.9311257
+"1139","Norfolk","VA",7,"Norfolk ,  VA",-76.2858726,36.8507689
+"1140","Norman","OK",1,"Norman ,  OK",-97.4394777,35.2225668
+"1141","Norman","VA",1,"Norman ,  VA",-97.4131235,35.2299409
+"1142","North Bergen","NJ",1,"North Bergen ,  NJ",-74.012084,40.8042674
+"1143","North Branch","MN",1,"North Branch ,  MN",-92.9931054,45.5102135
+"1144","North Charleston","SC",4,"North Charleston ,  SC",-79.9748103,32.8546197
+"1145","North English","IA",1,"North English ,  IA",-92.0762891,41.5138978
+"1146","North Fort Collins","CO",1,"North Fort Collins ,  CO",-105.0857507,40.5764054
+"1147","North Hills","CA",1,"North Hills ,  CA",-118.4849365,34.235822
+"1148","North Hollywood","CA",1,"North Hollywood ,  CA",-118.3812562,34.187044
+"1149","North Laredo","TX",1,"North Laredo ,  TX",-99.5075519,27.5035613
+"1150","North Las Vegas","NV",3,"North Las Vegas ,  NV",-115.1175013,36.1988592
+"1151","North Manchester","IN",1,"North Manchester ,  IN",-85.768597,41.0006005
+"1152","North Port","FL",1,"North Port ,  FL",-82.2359254,27.044224
+"1153","North Riverside","IL",1,"North Riverside ,  IL",-87.8231138,41.8428094
+"1154","North Royalton","OH",1,"North Royalton ,  OH",-81.7245739,41.3136644
+"1155","North St. Louis","MO",1,"North St. Louis ,  MO",-90.1951648,38.6488896
+"1156","Northglenn","CO",1,"Northglenn ,  CO",-104.9811468,39.8961821
+"1157","Northwood","OH",1,"Northwood ,  OH",-83.4688204,41.607272
+"1158","Norwalk","CA",1,"Norwalk ,  CA",-118.081733,33.9022367
+"1159","Norwich","CT",1,"Norwich ,  CT",-72.0759105,41.5242649
+"1160","Norwood","OK",1,"Norwood ,  OK",-95.1413479,35.9325964
+"1161","Oak Cliff","TX",2,"Oak Cliff ,  TX",-96.8645856,32.7362591
+"1162","Oak Harbor","WA",1,"Oak Harbor ,  WA",-122.6484205,48.2882947
+"1163","Oak Hill","OH",1,"Oak Hill ,  OH",-82.573495,38.8939645
+"1164","Oak Park","MI",1,"Oak Park ,  MI",-83.1827051,42.4594803
+"1165","Oak Ridge","TN",1,"Oak Ridge ,  TN",-84.2696449,36.0103561
+"1166","Oakland","CA",9,"Oakland ,  CA",-122.2711137,37.8043637
+"1167","Oakland Park","FL",1,"Oakland Park ,  FL",-80.1319893,26.1723065
+"1168","Ocala","FL",2,"Ocala ,  FL",-82.1400923,29.1871986
+"1169","Oceanside","CA",1,"Oceanside ,  CA",-117.3794834,33.1958696
+"1170","Odanah","WI",1,"Odanah ,  WI",-90.696851,46.6082759
+"1171","Odessa","MO",1,"Odessa ,  MO",-93.9535558,38.9991748
+"1172","Odessa","TX",3,"Odessa ,  TX",-102.3676431,31.8456816
+"1173","Ogden","UT",3,"Ogden ,  UT",-111.9738304,41.223
+"1174","Ohatchee","AL",1,"Ohatchee ,  AL",-86.0024703,33.7834324
+"1175","Oil Springs","KY",1,"Oil Springs ,  KY",-82.9423879,37.8100924
+"1176","Okarche","OK",1,"Okarche ,  OK",-97.9764411,35.7258795
+"1177","Oklahoma City","OK",18,"Oklahoma City ,  OK",-97.5164276,35.4675602
+"1178","Okmulgee","OK",1,"Okmulgee ,  OK",-95.9515399,35.6266957
+"1179","Okmulgee County","OK",1,"Okmulgee County ,  OK",-95.9832577,35.6795873
+"1180","Olathe","KS",2,"Olathe ,  KS",-94.8191285,38.8813958
+"1181","Old Bridge","NJ",1,"Old Bridge ,  NJ",-74.307282,40.4128551
+"1182","Old Forge","PA",1,"Old Forge ,  PA",-75.7349143,41.3711906
+"1183","Old Saybrook","CT",1,"Old Saybrook ,  CT",-72.3845301,41.2960159
+"1184","Old Town","FL",1,"Old Town ,  FL",-82.9819282,29.601657
+"1185","Olivehurst","CA",1,"Olivehurst ,  CA",-121.5521858,39.0954484
+"1186","Olustee","FL",1,"Olustee ,  FL",-82.42873,30.2041226
+"1187","Olympic Valley","CA",1,"Olympic Valley ,  CA",-120.2357055,39.1969804
+"1188","Omaha","NE",7,"Omaha ,  NE",-95.9345034,41.2565369
+"1189","Onalaska","TX",1,"Onalaska ,  TX",-95.1163261,30.805746
+"1190","Ontario","CA",3,"Ontario ,  CA",-117.6508876,34.0633443
+"1191","Opa-Locka","FL",1,"Opa-Locka ,  FL",-80.2503271,25.9023168
+"1192","Opelika","AL",1,"Opelika ,  AL",-85.3782795,32.6454116
+"1193","Opp","AL",1,"Opp ,  AL",-86.2555067,31.2826685
+"1194","Orange","CA",2,"Orange ,  CA",-117.8531007,33.7879139
+"1195","Orange","NJ",1,"Orange ,  NJ",-74.2326478,40.7706187
+"1196","Orange City","FL",1,"Orange City ,  FL",-81.2986741,28.9488761
+"1197","Orange County","FL",1,"Orange County ,  FL",-81.2518833,28.4844995
+"1198","Orange Park","FL",1,"Orange Park ,  FL",-81.706484,30.1660736
+"1199","Orcutt","CA",1,"Orcutt ,  CA",-120.4359966,34.8652574
+"1200","Oregon City","OR",1,"Oregon City ,  OR",-122.6048473,45.3363593
+"1201","Orem","OR",1,"Orem ,  OR",-111.6946475,40.2968979
+"1202","Orlando","FL",13,"Orlando ,  FL",-81.3792365,28.5383355
+"1203","Orosi","CA",1,"Orosi ,  CA",-119.2873384,36.5449499
+"1204","Orrington","ME",1,"Orrington ,  ME",-68.7904626,44.7202096
+"1205","Oshkosh","WI",1,"Oshkosh ,  WI",-88.5426136,44.0247062
+"1206","Osteen","FL",1,"Osteen ,  FL",-81.1625612,28.8461019
+"1207","Overland Park","KS",1,"Overland Park ,  KS",-94.6707917,38.9822282
+"1208","Overlea","MD",1,"Overlea ,  MD",-76.5205199,39.3634405
+"1209","Owasso","OK",1,"Owasso ,  OK",-95.8547119,36.2695388
+"1210","Owen County","IN",1,"Owen County ,  IN",-86.8220341,39.3603429
+"1211","Owensboro","KY",2,"Owensboro ,  KY",-87.1111676,37.7719074
+"1212","Owings Mills","MD",1,"Owings Mills ,  MD",-76.7802528,39.4195499
+"1213","Oxford","MA",1,"Oxford ,  MA",-71.8647577,42.1167606
+"1214","Oxnard","CA",1,"Oxnard ,  CA",-119.1770516,34.1975048
+"1215","Oxon Hill","MD",1,"Oxon Hill ,  MD",-76.9897278,38.8033178
+"1216","Ozark","AR",1,"Ozark ,  AR",-93.8276965,35.4870295
+"1217","Ozark","MO",1,"Ozark ,  MO",-93.2060163,37.0208865
+"1218","Pacific Beach","CA",1,"Pacific Beach ,  CA",-117.2355851,32.8024577
+"1219","Paddock Lake","WI",1,"Paddock Lake ,  WI",-88.1050853,42.5775187
+"1220","Pahrump","NV",1,"Pahrump ,  NV",-115.9839147,36.2082943
+"1221","Palatka","FL",2,"Palatka ,  FL",-81.6375819,29.6485801
+"1222","Palestine","TX",1,"Palestine ,  TX",-95.6307891,31.7621153
+"1223","Palm Bay","FL",3,"Palm Bay ,  FL",-80.5886646,28.0344621
+"1224","Palm Beach Gardens","FL",1,"Palm Beach Gardens ,  FL",-80.1386547,26.8233946
+"1225","Palm Springs","CA",1,"Palm Springs ,  CA",-116.5452921,33.8302961
+"1226","Palmdale","CA",3,"Palmdale ,  CA",-118.1164613,34.5794343
+"1227","Palmetto","FL",1,"Palmetto ,  FL",-82.5723193,27.5214269
+"1228","Palo Alto","CA",1,"Palo Alto ,  CA",-122.1430195,37.4418834
+"1229","Panama City","FL",1,"Panama City ,  FL",-85.6602058,30.1588129
+"1230","Panhandle","TX",1,"Panhandle ,  TX",-101.3804447,35.3456038
+"1231","Panora","IA",1,"Panora ,  IA",-94.3630215,41.6916535
+"1232","Panorama City","CA",1,"Panorama City ,  CA",-118.442425,34.227617
+"1233","Pardeeville","WI",1,"Pardeeville ,  WI",-89.3001174,43.5377608
+"1234","Paris","KY",1,"Paris ,  KY",-84.2529869,38.2097987
+"1235","Paris","TX",2,"Paris ,  TX",-95.555513,33.6609389
+"1236","Park County","CO",1,"Park County ,  CO",-105.5943388,39.0897928
+"1237","Parker","AZ",1,"Parker ,  AZ",-114.2891177,34.1500162
+"1238","Parkton","NC",1,"Parkton ,  NC",-79.0116971,34.9026635
+"1239","Parkville","MD",1,"Parkville ,  MD",-76.5396875,39.3773292
+"1240","Parma","OH",1,"Parma ,  OH",-81.7229086,41.4047742
+"1241","Parowan","UT",1,"Parowan ,  UT",-112.8279996,37.8421975
+"1242","Pasadena","CA",1,"Pasadena ,  CA",-118.1445155,34.1477849
+"1243","Pasadena","TX",1,"Pasadena ,  TX",-95.2091006,29.6910625
+"1244","Pasco","WA",1,"Pasco ,  WA",-119.0922316,46.2305049
+"1245","Paterson","NJ",2,"Paterson ,  NJ",-74.171811,40.9167654
+"1246","Paulding County","GA",1,"Paulding County ,  GA",-84.8984775,33.9142037
+"1247","Pavilion Township","MI",1,"Pavilion Township ,  MI",-85.4581859,42.2057097
+"1248","Pawtucket","RI",1,"Pawtucket ,  RI",-71.3825558,41.878711
+"1249","Peachland","NC",1,"Peachland ,  NC",-80.2645069,34.993766
+"1250","Peachtree City","GA",1,"Peachtree City ,  GA",-84.5963432,33.3968557
+"1251","Pearisburg","VA",1,"Pearisburg ,  VA",-80.7350711,37.3265112
+"1252","Pearland","TX",1,"Pearland ,  TX",-95.2860474,29.5635666
+"1253","Pell City","AL",1,"Pell City ,  AL",-86.2860888,33.5862149
+"1254","Pelzer","SC",1,"Pelzer ,  SC",-82.4559598,34.6423372
+"1255","Pembine","WI",1,"Pembine ,  WI",-87.9909531,45.6352391
+"1256","Penasco","NM",1,"Penasco ,  NM",-105.6874664,36.1704802
+"1257","Pendleton","SC",1,"Pendleton ,  SC",-82.7837514,34.6517733
+"1258","Penn Township","PA",1,"Penn Township ,  PA",-79.6614376,40.3840734
+"1259","Peoria","AZ",1,"Peoria ,  AZ",-112.2373779,33.5805955
+"1260","Peoria","IL",2,"Peoria ,  IL",-89.5889864,40.6936488
+"1261","Perry Township","OH",1,"Perry Township ,  OH",-81.460856,40.7736624
+"1262","Perryopolis","PA",1,"Perryopolis ,  PA",-79.750597,40.0870182
+"1263","Perryville","AR",1,"Perryville ,  AR",-92.8026673,35.0048102
+"1264","Peshtigo","WI",1,"Peshtigo ,  WI",-87.7492721,45.05443
+"1265","Petal","MS",1,"Petal ,  MS",-89.2600605,31.3465627
+"1266","Peterborough","NH",1,"Peterborough ,  NH",-71.9516746,42.8706048
+"1267","Peterson","MN",1,"Peterson ,  MN",-91.8342716,43.7881326
+"1268","Pharr","TX",1,"Pharr ,  TX",-98.1836216,26.1947962
+"1269","Phelps","KY",1,"Phelps ,  KY",-82.1531954,37.5144292
+"1270","Phenix City","AL",1,"Phenix City ,  AL",-85.0007653,32.4709761
+"1271","Philadelphia","PA",12,"Philadelphia ,  PA",-75.1652215,39.9525839
+"1272","Phoenix","AZ",38,"Phoenix ,  AZ",-112.0740373,33.4483771
+"1273","Pico Rivera","CA",2,"Pico Rivera ,  CA",-118.096735,33.9830688
+"1274","Picture Rocks","AZ",1,"Picture Rocks ,  AZ",-111.2462146,32.3459069
+"1275","Piedmont","AL",2,"Piedmont ,  AL",-85.6113501,33.9245454
+"1276","Piedmont","SC",2,"Piedmont ,  SC",-82.4645714,34.7023389
+"1277","Pike County","OH",1,"Pike County ,  OH",-83.0361376,39.0713471
+"1278","Pima County","AZ",1,"Pima County ,  AZ",-111.6660725,32.057499
+"1279","Pine Bluff","AR",1,"Pine Bluff ,  AR",-92.0031955,34.2284312
+"1280","Pine River","WI",1,"Pine River ,  WI",-89.0772092,44.1521559
+"1281","Pine Top","KY",1,"Pine Top ,  KY",-82.8823826,37.2726002
+"1282","Pinellas Park","FL",1,"Pinellas Park ,  FL",-82.6995443,27.8428025
+"1283","Pinetop-Lakeside","AZ",1,"Pinetop-Lakeside ,  AZ",-109.9603843,34.1425438
+"1284","Pineville","LA",1,"Pineville ,  LA",-92.4343035,31.3224044
+"1285","Pink","OK",1,"Pink ,  OK",-97.1197478,35.2606255
+"1286","Pinnacle","NC",1,"Pinnacle ,  NC",-80.4331116,36.3293051
+"1287","Pittsburg","CA",2,"Pittsburg ,  CA",-121.8846806,38.0279762
+"1288","Pittsburgh","PA",4,"Pittsburgh ,  PA",-79.9958864,40.4406248
+"1289","Pittsfield","MA",1,"Pittsfield ,  MA",-73.2453824,42.4500845
+"1290","Plano","TX",2,"Plano ,  TX",-96.6988856,33.0198431
+"1291","Plant City","FL",1,"Plant City ,  FL",-82.1128641,28.0186323
+"1292","Plantation","FL",1,"Plantation ,  FL",-80.2331036,26.1275862
+"1293","Plaquemine","LA",1,"Plaquemine ,  LA",-91.2342744,30.2890833
+"1294","Pleasant Hill","NC",1,"Pleasant Hill ,  NC",-77.5355335,36.5320954
+"1295","Pleasant View","CO",1,"Pleasant View ,  CO",-108.7654801,37.5883253
+"1296","Pleasanton","CA",2,"Pleasanton ,  CA",-121.8746789,37.6624312
+"1297","Plymouth","MN",1,"Plymouth ,  MN",-93.4555093,45.0105194
+"1298","Plymouth Township","PA",1,"Plymouth Township ,  PA",-75.3062326,40.1082672
+"1299","Point Loma","CA",1,"Point Loma ,  CA",-117.2466838,32.70003
+"1300","Polk County","OR",1,"Polk County ,  OR",-123.4919256,44.9266528
+"1301","Pomona","CA",1,"Pomona ,  CA",-117.7499909,34.055103
+"1302","Pompano Beach","FL",2,"Pompano Beach ,  FL",-80.1247667,26.2378597
+"1303","Ponder","TX",1,"Ponder ,  TX",-97.2872402,33.1828974
+"1304","Poplar Bluff","MO",1,"Poplar Bluff ,  MO",-90.392888,36.7569994
+"1305","Port Arthur","TX",1,"Port Arthur ,  TX",-93.939947,29.8849504
+"1306","Port Barre","LA",1,"Port Barre ,  LA",-91.9540054,30.5601953
+"1307","Port Charlotte","FL",1,"Port Charlotte ,  FL",-82.0906448,26.9761707
+"1308","Port Orange","FL",2,"Port Orange ,  FL",-80.9956105,29.1383165
+"1309","Port St. Lucie","FL",2,"Port St. Lucie ,  FL",-80.3582261,27.2730492
+"1310","Port Wentworth","GA",1,"Port Wentworth ,  GA",-81.163168,32.149092
+"1311","Portage","MI",1,"Portage ,  MI",-85.5800022,42.2011538
+"1312","Porterville","CA",1,"Porterville ,  CA",-119.0167679,36.06523
+"1313","Portland","ME",1,"Portland ,  ME",-70.2568189,43.6590993
+"1314","Portland","OR",8,"Portland ,  OR",-122.6587185,45.5122308
+"1315","Portsmouth","VA",3,"Portsmouth ,  VA",-76.2982742,36.8354258
+"1316","Potsdam","NY",1,"Potsdam ,  NY",-74.9813084,44.6697805
+"1317","Pottawatomie County","OK",1,"Pottawatomie County ,  OK",-97.0068393,35.275439
+"1318","Poultney","VT",1,"Poultney ,  VT",-73.2362261,43.5170325
+"1319","Poway","CA",1,"Poway ,  CA",-117.0358646,32.9628232
+"1320","Powder Springs","GA",1,"Powder Springs ,  GA",-84.683824,33.8595491
+"1321","Powhatan County","VA",1,"Powhatan County ,  VA",-77.8824596,37.5643209
+"1322","Prague","OK",1,"Prague ,  OK",-96.6850174,35.4867368
+"1323","Prescott","AZ",2,"Prescott ,  AZ",-112.4685025,34.5400242
+"1324","Presque Isle","ME",2,"Presque Isle ,  ME",-68.0158614,46.681153
+"1325","Prichard","AL",1,"Prichard ,  AL",-88.0896618,30.7451545
+"1326","Princeton","KY",1,"Princeton ,  KY",-87.8819594,37.1092162
+"1327","Princeton","NJ",1,"Princeton ,  NJ",-74.6672226,40.3572976
+"1328","Princeton","WV",2,"Princeton ,  WV",-81.1025918,37.3662293
+"1329","Progreso","TX",1,"Progreso ,  TX",-97.9572242,26.0922991
+"1330","Provo","UT",1,"Provo ,  UT",-111.6585337,40.2338438
+"1331","Pueblo","CO",6,"Pueblo ,  CO",-104.6091409,38.2544472
+"1332","Pueblo of Laguna","NM",1,"Pueblo of Laguna ,  NM",-107.3862229,35.0356535
+"1333","Pulaski","VA",2,"Pulaski ,  VA",-80.7797935,37.0478982
+"1334","Quartzsite","AZ",1,"Quartzsite ,  AZ",-114.2299486,33.6639137
+"1335","Queens","NY",2,"Queens ,  NY",-73.7948516,40.7282239
+"1336","Quincy","IL",1,"Quincy ,  IL",-91.4098726,39.9356016
+"1337","Racine","WI",1,"Racine ,  WI",-87.7828523,42.7261309
+"1338","Ragley","LA",1,"Ragley ,  LA",-93.2323813,30.512699
+"1339","Rainbow City","AL",1,"Rainbow City ,  AL",-86.0419169,33.9548201
+"1340","Raleigh","NC",2,"Raleigh ,  NC",-78.6381787,35.7795897
+"1341","Raleigh","TN",1,"Raleigh ,  TN",-89.9089684,35.2120652
+"1342","Rancho Cordova","CA",2,"Rancho Cordova ,  CA",-121.302728,38.5890723
+"1343","Rancho Santa Margarita","CA",1,"Rancho Santa Margarita ,  CA",-117.602832,33.640171
+"1344","Randallstown","MD",2,"Randallstown ,  MD",-76.7952525,39.3673278
+"1345","Rantoul","IL",1,"Rantoul ,  IL",-88.1558785,40.3083672
+"1346","Rapid City","SD",4,"Rapid City ,  SD",-103.2310149,44.0805434
+"1347","Rapid Valley","SD",1,"Rapid Valley ,  SD",-103.1462899,44.0624879
+"1348","Reading","MA",1,"Reading ,  MA",-71.0952891,42.5256563
+"1349","Reading","PA",2,"Reading ,  PA",-75.9268747,40.3356483
+"1350","Reagan","TN",1,"Reagan ,  TN",-88.3425424,35.52174
+"1351","Red Bluff","CA",1,"Red Bluff ,  CA",-122.2358302,40.1784886
+"1352","Red Valley","AZ",1,"Red Valley ,  AZ",-109.0603825,36.6039938
+"1353","Redding","CA",4,"Redding ,  CA",-122.3916754,40.5865396
+"1354","Redlands","CA",1,"Redlands ,  CA",-117.1825381,34.0555693
+"1355","Redondo Beach","CA",1,"Redondo Beach ,  CA",-118.3884078,33.8491816
+"1356","Redwood City","CA",1,"Redwood City ,  CA",-122.2363548,37.4852152
+"1357","Reisterstown","MD",1,"Reisterstown ,  MD",-76.8294213,39.4695489
+"1358","Reno","NV",7,"Reno ,  NV",-119.8138027,39.5296329
+"1359","Reno","TX",1,"Reno ,  TX",-95.4624548,33.6631622
+"1360","Rexburg","ID",1,"Rexburg ,  ID",-111.7924237,43.8231096
+"1361","Reynoldsville","WV",1,"Reynoldsville ,  WV",-80.4348145,39.2884222
+"1362","Rialto","CA",2,"Rialto ,  CA",-117.3703235,34.1064001
+"1363","Rib Mountain","WI",1,"Rib Mountain ,  WI",-89.675363,44.9128789
+"1364","Richland","WA",1,"Richland ,  WA",-119.2751996,46.28042
+"1365","Richmond","CA",1,"Richmond ,  CA",-122.3477486,37.9357576
+"1366","Richmond","VA",5,"Richmond ,  VA",-77.4360481,37.5407246
+"1367","Richmond Heights","OH",1,"Richmond Heights ,  OH",-81.5101208,41.5528288
+"1368","Ridgefield","WA",1,"Ridgefield ,  WA",-122.7028953,45.815695
+"1369","Ripon","CA",1,"Ripon ,  CA",-121.1354141,37.7394537
+"1370","Rising Sun","MD",1,"Rising Sun ,  MD",-76.0627266,39.6978871
+"1371","River Forest","IL",1,"River Forest ,  IL",-87.8139483,41.8978091
+"1372","Riverbank","CA",1,"Riverbank ,  CA",-120.9354895,37.7360396
+"1373","Riverdale","GA",1,"Riverdale ,  GA",-84.4132594,33.5726113
+"1374","Riverside","CA",2,"Riverside ,  CA",-117.3754942,33.9806005
+"1375","Riverton","UT",1,"Riverton ,  UT",-111.9391023,40.521893
+"1376","Riverview","FL",2,"Riverview ,  FL",-82.3264809,27.8661364
+"1377","Roanoke","VA",2,"Roanoke ,  VA",-79.9414266,37.2709704
+"1378","Robbins","IL",1,"Robbins ,  IL",-87.7036602,41.6439227
+"1379","Rochester","NY",2,"Rochester ,  NY",-77.6088465,43.1565779
+"1380","Rock Island","IL",1,"Rock Island ,  IL",-90.5787476,41.5094771
+"1381","Rockford","IL",1,"Rockford ,  IL",-89.0939952,42.2711311
+"1382","Rocklin","CA",1,"Rocklin ,  CA",-121.2357828,38.7907339
+"1383","Rockville","GA",1,"Rockville ,  GA",-83.2187677,33.3276362
+"1384","Roland","OK",1,"Roland ,  OK",-94.5146616,35.4212021
+"1385","Romance","AR",1,"Romance ,  AR",-92.0519036,35.240713
+"1386","Rome","OH",1,"Rome ,  OH",-83.3802744,38.6661196
+"1387","Romulus","MI",1,"Romulus ,  MI",-83.3965994,42.2222614
+"1388","Ronda","NC",1,"Ronda ,  NC",-80.9411858,36.2184669
+"1389","Roosevelt","UT",1,"Roosevelt ,  UT",-109.9887605,40.299403
+"1390","Rosalia","KS",1,"Rosalia ,  KS",-96.6197416,37.8152985
+"1391","Rose Bud","AR",1,"Rose Bud ,  AR",-92.0812595,35.3314708
+"1392","Rosebud","SD",1,"Rosebud ,  SD",-100.8534779,43.2327824
+"1393","Rosenberg","TX",1,"Rosenberg ,  TX",-95.8085623,29.5571825
+"1394","Roseville","MN",1,"Roseville ,  MN",-93.1566107,45.0060767
+"1395","Roslindale","MA",1,"Roslindale ,  MA",-71.1270268,42.2832142
+"1396","Rossville","GA",3,"Rossville ,  GA",-85.2860676,34.9831309
+"1397","Roswell","NM",2,"Roswell ,  NM",-104.5230242,33.3942655
+"1398","Rotterdam","NY",1,"Rotterdam ,  NY",-73.9709583,42.7870209
+"1399","Round Lake","IL",1,"Round Lake ,  IL",-88.0934145,42.353355
+"1400","Round Rock","TX",2,"Round Rock ,  TX",-97.678896,30.5082551
+"1401","Rowe","NM",1,"Rowe ,  NM",-105.6752935,35.4917053
+"1402","Rowland","NC",1,"Rowland ,  NC",-79.2914306,34.5365518
+"1403","Roxand Township","MI",1,"Roxand Township ,  MI",-84.8776392,42.729993
+"1404","Roy","UT",1,"Roy ,  UT",-112.0263313,41.1616108
+"1405","Royal Oak","MI",1,"Royal Oak ,  MI",-83.1446485,42.4894801
+"1406","Rufe","OK",1,"Rufe ,  OK",-95.1441197,34.1237158
+"1407","Ruidoso","NM",3,"Ruidoso ,  NM",-105.6588485,33.3672525
+"1408","Rush Springs","OK",1,"Rush Springs ,  OK",-97.9569845,34.7825721
+"1409","Russellville","AR",1,"Russellville ,  AR",-93.1337856,35.2784173
+"1410","Russellville","KY",1,"Russellville ,  KY",-86.887219,36.8453199
+"1411","Ruth","MS",1,"Ruth ,  MS",-90.3164819,31.3815627
+"1412","Rutherfordton","NC",1,"Rutherfordton ,  NC",-81.9567716,35.3692877
+"1413","Sacramento","CA",10,"Sacramento ,  CA",-121.4943996,38.5815719
+"1414","Saginaw","MI",1,"Saginaw ,  MI",-83.9508068,43.4194699
+"1415","Saginaw","TX",1,"Saginaw ,  TX",-97.3639068,32.8601275
+"1416","Salem","OR",1,"Salem ,  OR",-123.0350963,44.9428975
+"1417","Salemburg","NC",1,"Salemburg ,  NC",-78.5030622,35.0154469
+"1418","Salinas","CA",1,"Salinas ,  CA",-121.6555013,36.6777372
+"1419","Salisbury","MD",1,"Salisbury ,  MD",-75.5993692,38.3606736
+"1420","Salisbury","NC",2,"Salisbury ,  NC",-80.4742261,35.6709727
+"1421","Sallisaw","OK",2,"Sallisaw ,  OK",-94.7874463,35.4603711
+"1422","Salt Lake City","UT",8,"Salt Lake City ,  UT",-111.8910474,40.7607793
+"1423","Salt River Reservation","AZ",1,"Salt River Reservation ,  AZ",-111.7673622,33.516711
+"1424","San Antonio","TX",22,"San Antonio ,  TX",-98.4936282,29.4241219
+"1425","San Bernardino","CA",6,"San Bernardino ,  CA",-117.2897652,34.1083449
+"1426","San Carlos Park","FL",1,"San Carlos Park ,  FL",-81.8014742,26.4673016
+"1427","San Diego","CA",11,"San Diego ,  CA",-117.1610838,32.715738
+"1428","San Diego County","CA",1,"San Diego County ,  CA",-117.1610966,32.7157305
+"1429","San Fernando","CA",1,"San Fernando ,  CA",-118.4389719,34.2819461
+"1430","San Francisco","CA",14,"San Francisco ,  CA",-122.4194155,37.7749295
+"1431","San Jose","CA",11,"San Jose ,  CA",-121.8863286,37.3382082
+"1432","San Manuel","AZ",1,"San Manuel ,  AZ",-110.6309289,32.5997933
+"1433","San Marcos","CA",1,"San Marcos ,  CA",-117.1661449,33.1433723
+"1434","San Mateo","CA",1,"San Mateo ,  CA",-122.3255254,37.5629917
+"1435","San Rafael","NM",1,"San Rafael ,  NM",-107.8826751,35.1125344
+"1436","San Ysidro","CA",1,"San Ysidro ,  CA",-117.0470434,32.555556
+"1437","Sand City","CA",2,"Sand City ,  CA",-121.8482855,36.6171819
+"1438","Sand Springs","OK",1,"Sand Springs ,  OK",-96.108891,36.1398102
+"1439","Sandia","TX",1,"Sandia ,  TX",-97.8798634,28.0213648
+"1440","Sandpoint","ID",2,"Sandpoint ,  ID",-116.553465,48.276577
+"1441","Sandy","UT",1,"Sandy ,  UT",-111.8389726,40.5649781
+"1442","Sanford","NC",1,"Sanford ,  NC",-79.1802994,35.4798757
+"1443","Santa Ana","CA",7,"Santa Ana ,  CA",-117.867653,33.7454725
+"1444","Santa Barbara","CA",1,"Santa Barbara ,  CA",-119.6981901,34.4208305
+"1445","Santa Clara","CA",1,"Santa Clara ,  CA",-121.9552356,37.3541079
+"1446","Santa Clarita","CA",1,"Santa Clarita ,  CA",-118.542586,34.3916641
+"1447","Santa Cruz","CA",1,"Santa Cruz ,  CA",-122.0307963,36.9741171
+"1448","Santa Fe","NM",3,"Santa Fe ,  NM",-105.937799,35.6869752
+"1449","Santa Maria","CA",3,"Santa Maria ,  CA",-120.4357191,34.9530337
+"1450","Santa Monica","CA",1,"Santa Monica ,  CA",-118.4911912,34.0194543
+"1451","Santa Nella","CA",1,"Santa Nella ,  CA",-121.016866,37.0977209
+"1452","Santa Paula","CA",1,"Santa Paula ,  CA",-119.0592705,34.3541659
+"1453","Santa Rosa","CA",1,"Santa Rosa ,  CA",-122.7140548,38.440429
+"1454","Saraland","AL",1,"Saraland ,  AL",-88.0705556,30.820742
+"1455","Savannah","GA",1,"Savannah ,  GA",-81.091203,32.0808989
+"1456","Schenectady","NY",1,"Schenectady ,  NY",-73.9395687,42.8142432
+"1457","Schertz","TX",1,"Schertz ,  TX",-98.269734,29.5521737
+"1458","Schulter","OK",1,"Schulter ,  OK",-95.9566635,35.5145495
+"1459","Scott County","KY",1,"Scott County ,  KY",-84.564147,38.3172361
+"1460","Scott County","VA",1,"Scott County ,  VA",-82.605118,36.6815794
+"1461","Scottsdale","AZ",3,"Scottsdale ,  AZ",-111.9260519,33.4941704
+"1462","Scottsville","KY",1,"Scottsville ,  KY",-86.1905424,36.7533781
+"1463","Seagoville","TX",1,"Seagoville ,  TX",-96.5383228,32.6395776
+"1464","Searcy County","AR",1,"Searcy County ,  AR",-92.6983868,35.9721
+"1465","Seaside","OR",2,"Seaside ,  OR",-123.9226385,45.9931636
+"1466","Seattle","WA",5,"Seattle ,  WA",-122.3320708,47.6062095
+"1467","Sedalia","CO",1,"Sedalia ,  CO",-104.9597046,39.4369336
+"1468","Sedalia","MO",1,"Sedalia ,  MO",-93.2282613,38.7044609
+"1469","Sedona","AZ",1,"Sedona ,  AZ",-111.7609896,34.8697395
+"1470","Selma","AL",1,"Selma ,  AL",-87.0211007,32.4073589
+"1471","Selma","CA",1,"Selma ,  CA",-119.6120765,36.5707838
+"1472","Sevierville","TN",1,"Sevierville ,  TN",-83.561835,35.8681455
+"1473","Seville","FL",1,"Seville ,  FL",-81.4925714,29.3169208
+"1474","Shafter","CA",1,"Shafter ,  CA",-119.2717761,35.5005139
+"1475","Shakopee","MN",1,"Shakopee ,  MN",-93.5272861,44.7973962
+"1476","Sharon","PA",1,"Sharon ,  PA",-80.4934035,41.2331116
+"1477","Sharpsburg","KY",1,"Sharpsburg ,  KY",-83.9293681,38.2020214
+"1478","Shawnee National Forest","IL",1,"Shawnee National Forest ,  IL",-88.903881,37.4925379
+"1479","Sheboygan","WI",1,"Sheboygan ,  WI",-87.71453,43.7508284
+"1480","Shelby","NC",1,"Shelby ,  NC",-81.5356463,35.2923513
+"1481","Shelbyville","IN",2,"Shelbyville ,  IN",-85.7769238,39.5214373
+"1482","Shelbyville","KY",1,"Shelbyville ,  KY",-85.2235666,38.2120144
+"1483","Shelbyville","TN",1,"Shelbyville ,  TN",-86.4602717,35.483406
+"1484","Shelbyville","TX",1,"Shelbyville ,  TX",-94.0789272,31.7617683
+"1485","Shelton","WA",1,"Shelton ,  WA",-123.1007066,47.2150945
+"1486","Sheridan","AR",1,"Sheridan ,  AR",-92.4012654,34.3070406
+"1487","Sherwood","OR",1,"Sherwood ,  OR",-122.8402122,45.3562638
+"1488","Show Low","AZ",1,"Show Low ,  AZ",-110.0298327,34.2542084
+"1489","Shreveport","LA",6,"Shreveport ,  LA",-93.7501789,32.5251516
+"1490","Sidney","NE",1,"Sidney ,  NE",-102.9774497,41.1448219
+"1491","Sierra Blanca","TX",1,"Sierra Blanca ,  TX",-105.3571764,31.1745732
+"1492","Sierra Vista","AZ",1,"Sierra Vista ,  AZ",-110.2772856,31.5455001
+"1493","Silsbee","TX",1,"Silsbee ,  TX",-94.1779624,30.3490976
+"1494","Silver Spring","MD",2,"Silver Spring ,  MD",NA,NA
+"1495","Silver Springs","NV",1,"Silver Springs ,  NV",-119.2246073,39.4154714
+"1496","Simpsonsville","KY",1,"Simpsonsville ,  KY",-85.3552349,38.22257
+"1497","Simpsonville","SC",1,"Simpsonville ,  SC",-82.2542834,34.7370639
+"1498","Sioux City","IA",1,"Sioux City ,  IA",-96.4049408,42.4963416
+"1499","Sioux Falls","SD",1,"Sioux Falls ,  SD",-96.728333,43.5473028
+"1500","Siskiyou County","CA",1,"Siskiyou County ,  CA",-122.5770126,41.7743261
+"1501","Slidell","LA",1,"Slidell ,  LA",-89.7811745,30.2751945
+"1502","Smartsville","CA",1,"Smartsville ,  CA",-121.2988335,39.2077473
+"1503","Smithville","MS",1,"Smithville ,  MS",-88.391154,34.0701074
+"1504","Smyrna","DE",1,"Smyrna ,  DE",-75.6046494,39.2998339
+"1505","Smyrna","GA",1,"Smyrna ,  GA",-84.5143761,33.8839926
+"1506","Smyrna","ME",1,"Smyrna ,  ME",-68.1203515,46.1644547
+"1507","Snellville","GA",1,"Snellville ,  GA",-84.0199108,33.857328
+"1508","Snohomish","WA",1,"Snohomish ,  WA",-122.0981847,47.9128756
+"1509","Socorro","NM",1,"Socorro ,  NM",-106.8914159,34.0583995
+"1510","Soddy-Daisy","TN",2,"Soddy-Daisy ,  TN",-85.1907904,35.2359025
+"1511","Solvang","CA",1,"Solvang ,  CA",-120.1376481,34.5958201
+"1512","Somerset","PA",1,"Somerset ,  PA",-79.0780831,40.008411
+"1513","Somerville","TN",1,"Somerville ,  TN",-89.3500714,35.2436969
+"1514","South El Monte","CA",2,"South El Monte ,  CA",-118.0467339,34.0519548
+"1515","South Elgin","IL",1,"South Elgin ,  IL",-88.2922996,41.9941938
+"1516","South Gate","CA",4,"South Gate ,  CA",-118.2120161,33.954737
+"1517","South Greensburg","PA",1,"South Greensburg ,  PA",-79.5447619,40.2784029
+"1518","South Lake Tahoe","CA",2,"South Lake Tahoe ,  CA",-119.9771868,38.939926
+"1519","South Los Angeles","CA",1,"South Los Angeles ,  CA",-118.2914872,33.9891116
+"1520","South Salt Lake","UT",1,"South Salt Lake ,  UT",-111.8882691,40.7188354
+"1521","South Whitehall Township","PA",1,"South Whitehall Township ,  PA",-75.5393155,40.6176789
+"1522","Southaven","MS",2,"Southaven ,  MS",-90.0022958,34.9918587
+"1523","Southfield","MI",1,"Southfield ,  MI",-83.2218731,42.4733688
+"1524","Spanaway","WA",2,"Spanaway ,  WA",-122.4345661,47.103988
+"1525","Spanish Fork","UT",2,"Spanish Fork ,  UT",-111.654923,40.114955
+"1526","Spanish Springs","NV",1,"Spanish Springs ,  NV",-119.7074096,39.649077
+"1527","Sparks","NV",3,"Sparks ,  NV",-119.7526886,39.5349112
+"1528","Sparta","NC",1,"Sparta ,  NC",-81.1209189,36.5054071
+"1529","Sparta","TN",1,"Sparta ,  TN",-85.4641421,35.9258985
+"1530","Sparta","WI",1,"Sparta ,  WI",-90.8129118,43.9441328
+"1531","Spartanburg","SC",1,"Spartanburg ,  SC",-81.9320482,34.9495672
+"1532","Spencer","MA",1,"Spencer ,  MA",-71.9922867,42.2439682
+"1533","Splendora","TX",1,"Splendora ,  TX",-95.1610438,30.2329914
+"1534","Spokane","WA",5,"Spokane ,  WA",-117.4260465,47.6587802
+"1535","Spotsylvania","VA",1,"Spotsylvania ,  VA",-77.6077865,38.204165
+"1536","Spring","TX",1,"Spring ,  TX",-95.4171601,30.0799405
+"1537","Spring Hill","FL",1,"Spring Hill ,  FL",-82.5369872,28.4831682
+"1538","Spring Lake","NC",1,"Spring Lake ,  NC",-78.9728056,35.1679395
+"1539","Springdale","AR",1,"Springdale ,  AR",-94.1288141,36.1867442
+"1540","Springfield","IL",1,"Springfield ,  IL",-89.6501481,39.7817213
+"1541","Springfield","MO",6,"Springfield ,  MO",-93.2922989,37.2089572
+"1542","Springfield","OH",1,"Springfield ,  OH",-83.8088171,39.9242266
+"1543","Springfield","OR",1,"Springfield ,  OR",-123.0220289,44.0462362
+"1544","Springtown","TX",1,"Springtown ,  TX",-97.6836384,32.9659566
+"1545","St Louis","MO",2,"St Louis ,  MO",-90.1994042,38.6270025
+"1546","St. Augustine","FL",3,"St. Augustine ,  FL",-81.3124341,29.9012437
+"1547","St. Clair Shores","MI",1,"St. Clair Shores ,  MI",-82.8963604,42.4974085
+"1548","St. Clair Township","OH",1,"St. Clair Township ,  OH",-84.5327038,39.4512819
+"1549","St. Cloud","MN",1,"St. Cloud ,  MN",-94.1632404,45.5579451
+"1550","St. James","MN",1,"St. James ,  MN",-94.6283192,43.9820734
+"1551","St. Joseph","MI",1,"St. Joseph ,  MI",-86.4895463,42.0938577
+"1552","St. Joseph","MO",2,"St. Joseph ,  MO",-94.846681,39.7674578
+"1553","St. Louis","MO",19,"St. Louis ,  MO",-90.1994042,38.6270025
+"1554","St. Martin","MS",1,"St. Martin ,  MS",-88.8680853,30.4379758
+"1555","St. Paul","MN",7,"St. Paul ,  MN",-93.0899578,44.9537029
+"1556","St. Petersburg","FL",3,"St. Petersburg ,  FL",-82.6402915,27.7676008
+"1557","St. Tammany Parish","LA",1,"St. Tammany Parish ,  LA",-89.9253233,30.4357418
+"1558","Stafford","VA",1,"Stafford ,  VA",-77.4083086,38.4220687
+"1559","Stamford","CT",1,"Stamford ,  CT",-73.5387341,41.0534302
+"1560","Standing Rock Reservation","ND",1,"Standing Rock Reservation ,  ND",-101.2004153,45.7502748
+"1561","Stanfordville","NY",1,"Stanfordville ,  NY",-73.7137984,41.8671647
+"1562","Starke","FL",1,"Starke ,  FL",-82.1098275,29.9441298
+"1563","Staten Island","NY",1,"Staten Island ,  NY",-74.1502007,40.5795317
+"1564","Statesville","NC",1,"Statesville ,  NC",-80.8872959,35.7826363
+"1565","Steubenville","OH",1,"Steubenville ,  OH",-80.6339638,40.3697905
+"1566","Stewartstown","PA",1,"Stewartstown ,  PA",-76.5913571,39.7537146
+"1567","Stillwater","OK",1,"Stillwater ,  OK",-97.0583681,36.1156071
+"1568","Stockbridge","GA",2,"Stockbridge ,  GA",-84.2338093,33.5442781
+"1569","Stockton","CA",5,"Stockton ,  CA",-121.2907796,37.9577016
+"1570","Stockton","IL",1,"Stockton ,  IL",-90.0067916,42.3497355
+"1571","Stone Mountain","GA",2,"Stone Mountain ,  GA",-84.170196,33.8081608
+"1572","Stoneville","NC",1,"Stoneville ,  NC",-79.9069847,36.4665269
+"1573","Straban Township","PA",1,"Straban Township ,  PA",-77.1735312,39.8716058
+"1574","Strasburg","CO",1,"Strasburg ,  CO",-104.3232924,39.7383163
+"1575","Strong","AR",1,"Strong ,  AR",-92.3566861,33.1073435
+"1576","Studio City","CA",1,"Studio City ,  CA",-118.3870991,34.1395597
+"1577","Stutsman County","ND",1,"Stutsman County ,  ND",-98.9909139,46.939184
+"1578","Suffolk","VA",1,"Suffolk ,  VA",-76.5835621,36.7282054
+"1579","Sugar Creek","MO",3,"Sugar Creek ,  MO",-94.4446742,39.1097268
+"1580","Sugar House","UT",1,"Sugar House ,  UT",-111.8563389,40.7208539
+"1581","Sullivan","IN",1,"Sullivan ,  IN",-87.4058525,39.0953199
+"1582","Sullivan","MO",1,"Sullivan ,  MO",-91.1604207,38.2081045
+"1583","Sumas","WA",1,"Sumas ,  WA",-122.2648752,49.0001217
+"1584","Summerville","SC",1,"Summerville ,  SC",-80.1756481,33.0185039
+"1585","Sumter","SC",1,"Sumter ,  SC",-80.3414693,33.9204354
+"1586","Sun City","AZ",2,"Sun City ,  AZ",-112.2718239,33.5975393
+"1587","Sunnyvale","CA",4,"Sunnyvale ,  CA",-122.0363496,37.36883
+"1588","Sunrise","FL",1,"Sunrise ,  FL",-80.256595,26.1669711
+"1589","Sunset","TX",1,"Sunset ,  TX",-97.7666999,33.4520535
+"1590","Surfside Beach","SC",1,"Surfside Beach ,  SC",-78.9730887,33.6060031
+"1591","Surprise","AZ",1,"Surprise ,  AZ",-112.3679279,33.6292337
+"1592","Sussex County","VA",1,"Sussex County ,  VA",-77.2405153,36.9058167
+"1593","Swansea","SC",1,"Swansea ,  SC",-81.0978734,33.7382088
+"1594","Sylacauga","AL",1,"Sylacauga ,  AL",-86.2516406,33.1731716
+"1595","Sylmar","CA",2,"Sylmar ,  CA",-118.4571974,34.3058279
+"1596","Sylvester","GA",1,"Sylvester ,  GA",-83.8354542,31.5307349
+"1597","Syracuse","NY",2,"Syracuse ,  NY",-76.1474244,43.0481221
+"1598","Syracuse","UT",1,"Syracuse ,  UT",-112.0646657,41.0893878
+"1599","Tacoma","WA",6,"Tacoma ,  WA",-122.4442906,47.2528768
+"1600","Tahlequah","OK",2,"Tahlequah ,  OK",-94.969956,35.91537
+"1601","Tahoka","TX",1,"Tahoka ,  TX",-101.7937669,33.1667601
+"1602","Talihina","OK",1,"Talihina ,  OK",-95.0480162,34.7514893
+"1603","Talking Rock","GA",1,"Talking Rock ,  GA",-84.5049279,34.5092562
+"1604","Tallahassee","FL",2,"Tallahassee ,  FL",-84.2807329,30.4382559
+"1605","Tampa","FL",7,"Tampa ,  FL",-82.4571776,27.950575
+"1606","Taos","NM",1,"Taos ,  NM",-105.5730665,36.4072485
+"1607","Tarboro","NC",2,"Tarboro ,  NC",-77.5358049,35.8968236
+"1608","Tarpon Springs","FL",1,"Tarpon Springs ,  FL",-82.7567679,28.1461248
+"1609","Tate County","MS",1,"Tate County ,  MS",-89.9626799,34.6413971
+"1610","Taunton","MA",1,"Taunton ,  MA",-71.0897674,41.900101
+"1611","Taylors","SC",2,"Taylors ,  SC",-82.2962268,34.9203946
+"1612","Tehachapi","CA",1,"Tehachapi ,  CA",-118.4489739,35.1321877
+"1613","Temecula","CA",1,"Temecula ,  CA",-117.1483648,33.4936391
+"1614","Tempe","AZ",6,"Tempe ,  AZ",-111.9400054,33.4255104
+"1615","Temple","TX",1,"Temple ,  TX",-97.342782,31.0982344
+"1616","Temple Hills","MD",1,"Temple Hills ,  MD",-76.9455296,38.8140024
+"1617","Terre Haute","IN",3,"Terre Haute ,  IN",-87.4139092,39.4667034
+"1618","Tewksbury","MA",1,"Tewksbury ,  MA",-71.2342248,42.6106478
+"1619","Thomas County","GA",1,"Thomas County ,  GA",-83.8473015,30.8417409
+"1620","Thomaston","CT",1,"Thomaston ,  CT",-73.0724037,41.6743343
+"1621","Thomasville","GA",1,"Thomasville ,  GA",-83.9787808,30.8365815
+"1622","Thomasville","NC",1,"Thomasville ,  NC",-80.0819879,35.8826369
+"1623","Thonotosassa","FL",1,"Thonotosassa ,  FL",-82.3023128,28.0614065
+"1624","Thornton","CO",1,"Thornton ,  CO",-104.9719243,39.8680412
+"1625","Three Forks","MT",1,"Three Forks ,  MT",-111.5521925,45.892428
+"1626","Thurston County","WA",1,"Thurston County ,  WA",-122.7695986,46.8645747
+"1627","Tiffin","OH",1,"Tiffin ,  OH",-83.1779746,41.1144992
+"1628","Timberlake","NC",1,"Timberlake ,  NC",-78.9506354,36.2843888
+"1629","Titusville","FL",1,"Titusville ,  FL",-80.8075537,28.6122187
+"1630","Tiverton","RI",1,"Tiverton ,  RI",-71.2134231,41.6259211
+"1631","Toledo","OH",4,"Toledo ,  OH",-83.5378674,41.6528052
+"1632","Tom","OK",1,"Tom ,  OK",-94.5729863,33.7359468
+"1633","Tomball","TX",1,"Tomball ,  TX",-95.6160549,30.0971621
+"1634","Topeka","KS",3,"Topeka ,  KS",-95.6751576,39.0473451
+"1635","Torrance","CA",1,"Torrance ,  CA",-118.3406288,33.8358492
+"1636","Tremont","NY",1,"Tremont ,  NY",-73.8933596,40.8447416
+"1637","Trenton","MI",1,"Trenton ,  MI",-83.1782587,42.1394858
+"1638","Trenton","NJ",1,"Trenton ,  NJ",-74.759717,40.2205824
+"1639","Trinidad","CO",1,"Trinidad ,  CO",-104.5005407,37.1694632
+"1640","Trosper","KY",1,"Trosper ,  KY",-83.8190885,36.7884194
+"1641","Troy","MI",1,"Troy ,  MI",-83.1497751,42.6064095
+"1642","Troy","NY",1,"Troy ,  NY",-73.6917851,42.7284117
+"1643","Trumann","AR",1,"Trumann ,  AR",-90.5073285,35.6736895
+"1644","Truth or Consequences","NM",1,"Truth or Consequences ,  NM",-107.2528069,33.1284047
+"1645","Tualatin","OR",1,"Tualatin ,  OR",-122.7819595,45.3779317
+"1646","Tucson","AZ",19,"Tucson ,  AZ",-110.9747108,32.2226066
+"1647","Tukwila","WA",1,"Tukwila ,  WA",-122.2609558,47.4739884
+"1648","Tulare","CA",1,"Tulare ,  CA",-119.3473379,36.2077288
+"1649","Tulsa","OK",14,"Tulsa ,  OK",-95.992775,36.1539816
+"1650","Tupelo","MS",2,"Tupelo ,  MS",-88.7033859,34.2576066
+"1651","Tuscaloosa","AL",1,"Tuscaloosa ,  AL",-87.5691735,33.2098407
+"1652","Tuscumbia","AL",1,"Tuscumbia ,  AL",-87.70253,34.7312005
+"1653","Tustin","CA",1,"Tustin ,  CA",-117.8236391,33.7420005
+"1654","Twentynine Palms","CA",1,"Twentynine Palms ,  CA",-116.0541689,34.1355582
+"1655","Twinsburg","OH",1,"Twinsburg ,  OH",-81.4401129,41.3125552
+"1656","Tyrone","GA",1,"Tyrone ,  GA",-84.5971524,33.4712253
+"1657","Udall","KS",1,"Udall ,  KS",-97.1142063,37.3875221
+"1658","Union City","CA",1,"Union City ,  CA",-122.0438298,37.5933918
+"1659","Union Grove","NC",1,"Union Grove ,  NC",-80.8322428,36.0204308
+"1660","Union Township","MI",1,"Union Township ,  MI",-84.8255097,43.5878073
+"1661","Union Township","PA",1,"Union Township ,  PA",-79.9752212,40.2501864
+"1662","Uniontown","OH",1,"Uniontown ,  OH",-81.4081673,40.9750568
+"1663","University City","CA",1,"University City ,  CA",-117.2054294,32.8577324
+"1664","Upper Darby","PA",1,"Upper Darby ,  PA",-75.3076883,39.957902
+"1665","Urbandale","IA",1,"Urbandale ,  IA",-93.7121656,41.6266555
+"1666","Utica","KY",1,"Utica ,  KY",-87.1130521,37.6022699
+"1667","Vadnais Heights","MN",1,"Vadnais Heights ,  MN",-93.0738305,45.0574658
+"1668","Valdez","CO",1,"Valdez ,  CO",-104.701389,37.122222
+"1669","Valdosta","GA",2,"Valdosta ,  GA",-83.2784851,30.8327022
+"1670","Valinda","CA",1,"Valinda ,  CA",-117.9436749,34.0452883
+"1671","Vallejo","CA",3,"Vallejo ,  CA",-122.2566367,38.1040864
+"1672","Van Buren","AR",1,"Van Buren ,  AR",-94.348268,35.436756
+"1673","Van Nuys","CA",2,"Van Nuys ,  CA",-118.451357,34.1898566
+"1674","Vancouver","WA",3,"Vancouver ,  WA",-122.6727305,45.6272259
+"1675","Vandalia","OH",1,"Vandalia ,  OH",-84.1988308,39.8906122
+"1676","Venice","CA",1,"Venice ,  CA",-118.4694832,33.9850469
+"1677","Ventnor","NJ",1,"Ventnor ,  NJ",-74.4773735,39.3403942
+"1678","Vero Beach","FL",1,"Vero Beach ,  FL",-80.3972736,27.6386434
+"1679","Victoria","TX",1,"Victoria ,  TX",-97.0035982,28.8052674
+"1680","Victorville","CA",1,"Victorville ,  CA",-117.2927641,34.5362184
+"1681","Villa Park","IL",1,"Villa Park ,  IL",-87.9889543,41.8897519
+"1682","Vineland","MN",1,"Vineland ,  MN",-93.7574724,46.1635704
+"1683","Vineland","NJ",2,"Vineland ,  NJ",-75.0259637,39.4863773
+"1684","Virginia Beach","VA",3,"Virginia Beach ,  VA",-75.977985,36.8529263
+"1685","Visalia","CA",3,"Visalia ,  CA",-119.2920585,36.3302284
+"1686","Vista","CA",2,"Vista ,  CA",-117.2425355,33.2000368
+"1687","Waco","TX",2,"Waco ,  TX",-97.1466695,31.549333
+"1688","Wadesboro","NC",1,"Wadesboro ,  NC",-80.0767266,34.9682097
+"1689","Wagoner","OK",2,"Wagoner ,  OK",-95.3694116,35.9595442
+"1690","Wake Forest","NC",2,"Wake Forest ,  NC",-78.5097228,35.9798734
+"1691","Waldoboro","ME",1,"Waldoboro ,  ME",-69.3756017,44.0952725
+"1692","Walls","MS",1,"Walls ,  MS",-90.1517605,34.9578727
+"1693","Walnut Creek","CA",1,"Walnut Creek ,  CA",-122.0651819,37.9100783
+"1694","Walton","IN",1,"Walton ,  IN",-86.24194,40.6608726
+"1695","Wamego","KS",1,"Wamego ,  KS",-96.3049975,39.2019412
+"1696","Wapato","WA",1,"Wapato ,  WA",-120.4203382,46.4476278
+"1697","Warren","MI",1,"Warren ,  MI",-83.0146526,42.5144566
+"1698","Wasco","CA",1,"Wasco ,  CA",-119.3409457,35.5941238
+"1699","Washington","DC",12,"Washington ,  DC",-77.0368707,38.9071923
+"1700","Washington","PA",1,"Washington ,  PA",-80.2461714,40.17396
+"1701","Washington County","AL",1,"Washington County ,  AL",-88.2461183,31.3422346
+"1702","Washington Court House","OH",1,"Washington Court House ,  OH",-83.4390843,39.5364511
+"1703","Washington Park","IL",1,"Washington Park ,  IL",-90.0928852,38.6350501
+"1704","Watagua","TX",1,"Watagua ,  TX",-97.2547371,32.8579056
+"1705","Water Valley","MS",2,"Water Valley ,  MS",-89.6314736,34.1514989
+"1706","Waterford Township","MI",2,"Waterford Township ,  MI",-83.4066132,42.6907443
+"1707","Watsonsville","CA",1,"Watsonsville ,  CA",-121.7568946,36.910231
+"1708","Watsonville","CA",1,"Watsonville ,  CA",-121.7568946,36.910231
+"1709","Watts","OK",1,"Watts ,  OK",-94.5702202,36.1092487
+"1710","Waukesha","WI",1,"Waukesha ,  WI",-88.2314813,43.0116784
+"1711","Wausau","WI",1,"Wausau ,  WI",-89.6301221,44.9591352
+"1712","Wauwatosa","WI",2,"Wauwatosa ,  WI",-88.0075875,43.0494572
+"1713","Waverly","OH",1,"Waverly ,  OH",-82.9854553,39.1267349
+"1714","Wayne County","KY",1,"Wayne County ,  KY",-84.8567932,36.7571907
+"1715","Waynesboro","VA",1,"Waynesboro ,  VA",-78.8894682,38.0684692
+"1716","Weatherford","TX",3,"Weatherford ,  TX",-97.7972544,32.7592955
+"1717","Webster","MA",1,"Webster ,  MA",-71.8800628,42.050091
+"1718","Webster","TX",1,"Webster ,  TX",-95.1182645,29.5377315
+"1719","Weeki Wachi","FL",1,"Weeki Wachi ,  FL",-82.5728769,28.5155513
+"1720","Weitchpec","CA",1,"Weitchpec ,  CA",-123.703994,41.1877221
+"1721","Wellington","FL",1,"Wellington ,  FL",-80.2683571,26.6617635
+"1722","Wellman","IA",1,"Wellman ,  IA",-91.8382273,41.4641806
+"1723","Wenatchee","WA",1,"Wenatchee ,  WA",-120.3103494,47.4234599
+"1724","West Allis","WI",1,"West Allis ,  WI",-88.0070315,43.0166806
+"1725","West Burlington","IA",1,"West Burlington ,  IA",-91.1565357,40.8250386
+"1726","West Chester","PA",1,"West Chester ,  PA",-75.6054882,39.9606643
+"1727","West Covina","CA",1,"West Covina ,  CA",-117.9389526,34.0686208
+"1728","West Goshen","CA",1,"West Goshen ,  CA",-119.4201204,36.3510616
+"1729","West Jordan","UT",3,"West Jordan ,  UT",-111.9391031,40.6096698
+"1730","West Knox","TN",1,"West Knox ,  TN",-83.9551854,35.9703599
+"1731","West Linn","OR",1,"West Linn ,  OR",-122.6228367,45.3707677
+"1732","West Milford","WV",1,"West Milford ,  WV",-80.4042579,39.2009242
+"1733","West Monroe","LA",1,"West Monroe ,  LA",-92.1476353,32.5184775
+"1734","West Odessa","TX",1,"West Odessa ,  TX",-102.498757,31.8423472
+"1735","West Olive","MI",1,"West Olive ,  MI",-86.1464352,42.9214101
+"1736","West Ouachita","LA",1,"West Ouachita ,  LA",-92.3368009,32.4277993
+"1737","West Palm Beach","FL",1,"West Palm Beach ,  FL",-80.0533746,26.7153424
+"1738","West Springfield","MA",1,"West Springfield ,  MA",-72.6203675,42.1070383
+"1739","West Valley City","UT",1,"West Valley City ,  UT",-112.0010501,40.6916132
+"1740","Westerville","OH",1,"Westerville ,  OH",-82.9318807,40.1266689
+"1741","Westminster","CO",6,"Westminster ,  CO",-105.0372046,39.8366528
+"1742","Westover","AL",1,"Westover ,  AL",-86.5274419,33.3535324
+"1743","Wewoka","OK",1,"Wewoka ,  OK",-96.4933457,35.1586902
+"1744","Weymouth","MA",1,"Weymouth ,  MA",-70.9410356,42.2180724
+"1745","White","GA",1,"White ,  GA",-84.7452138,34.2828722
+"1746","White Plains","KY",1,"White Plains ,  KY",-87.3836095,37.183655
+"1747","Whitehall","OH",1,"Whitehall ,  OH",-82.8854559,39.9667308
+"1748","Whitehaven","TN",1,"Whitehaven ,  TN",-90.0466559,35.0277933
+"1749","Whittier","CA",3,"Whittier ,  CA",-118.032844,33.9791793
+"1750","Wichita","KS",5,"Wichita ,  KS",-97.330053,37.6871761
+"1751","Wichita Falls","TX",1,"Wichita Falls ,  TX",-98.4933873,33.9137085
+"1752","Wilderville","OR",1,"Wilderville ,  OR",-123.4670077,42.382338
+"1753","Wilhoit","AZ",1,"Wilhoit ,  AZ",-112.5868398,34.4258586
+"1754","Wilkesboro","NC",1,"Wilkesboro ,  NC",-81.1606401,36.1459649
+"1755","Wilkinsburg","PA",1,"Wilkinsburg ,  PA",-79.8819942,40.4417355
+"1756","Williamsburg","KY",1,"Williamsburg ,  KY",-84.1596561,36.7434169
+"1757","Wilmington","CA",1,"Wilmington ,  CA",-118.2643567,33.7857948
+"1758","Wilmington","DE",3,"Wilmington ,  DE",-75.5483909,39.744655
+"1759","Wilmington","NC",1,"Wilmington ,  NC",-77.8868117,34.2103894
+"1760","Wilmore","KY",1,"Wilmore ,  KY",-84.6616105,37.8620226
+"1761","Wimberley","TX",1,"Wimberley ,  TX",-98.0986204,29.9974362
+"1762","Winchester","CA",1,"Winchester ,  CA",-117.0844733,33.706966
+"1763","Winchester","VA",1,"Winchester ,  VA",-78.1633341,39.1856597
+"1764","Wink","TX",1,"Wink ,  TX",-103.1598876,31.7512396
+"1765","Winn Parish","LA",2,"Winn Parish ,  LA",-92.6586401,31.9196124
+"1766","Winnie","TX",1,"Winnie ,  TX",-94.3840777,29.8202205
+"1767","Winooski","VT",1,"Winooski ,  VT",-73.1856832,44.491438
+"1768","Winslow","AZ",1,"Winslow ,  AZ",-110.6973571,35.0241873
+"1769","Winston-Salem","NC",1,"Winston-Salem ,  NC",-80.244216,36.0998596
+"1770","Winter Haven","FL",1,"Winter Haven ,  FL",-81.7328567,28.0222435
+"1771","Wise County","VA",1,"Wise County ,  VA",-82.605118,37.0240877
+"1772","Wolf Creek","OR",1,"Wolf Creek ,  OR",-123.3953424,42.6953954
+"1773","Wood County","TX",1,"Wood County ,  TX",-95.3520876,32.8296216
+"1774","Wood Lake","ND",1,"Wood Lake ,  ND",-98.8208889,47.8805328
+"1775","Woodbridge","NJ",1,"Woodbridge ,  NJ",-74.2846022,40.5575986
+"1776","Woodbridge","VA",1,"Woodbridge ,  VA",-77.2497049,38.6581722
+"1777","Woodford","VA",1,"Woodford ,  VA",-77.4092467,38.113349
+"1778","Woodland","WA",1,"Woodland ,  WA",-122.7439912,45.9045591
+"1779","Woodstock","GA",1,"Woodstock ,  GA",-84.5193754,34.1014873
+"1780","Woodville","CA",1,"Woodville ,  CA",-119.1989975,36.0935637
+"1781","Woodville","GA",1,"Woodville ,  GA",-83.1059865,33.6715142
+"1782","Wyoming","MI",2,"Wyoming ,  MI",-85.7053085,42.9133602
+"1783","Yakima","WA",1,"Yakima ,  WA",-120.5058987,46.6020711
+"1784","Yellville","AR",1,"Yellville ,  AR",-92.6848876,36.2261815
+"1785","Yonkers","NY",1,"Yonkers ,  NY",-73.8987469,40.9312099
+"1786","Yorba Linda","CA",1,"Yorba Linda ,  CA",-117.8132571,33.8885035
+"1787","York","NE",1,"York ,  NE",-97.5920867,40.8673915
+"1788","York","PA",1,"York ,  PA",-76.727745,39.9625984
+"1789","York County","VA",1,"York County ,  VA",-76.3868797,37.2103925
+"1790","Youngtown","AZ",1,"Youngtown ,  AZ",-112.3029362,33.5939281
+"1791","Yuba City","CA",2,"Yuba City ,  CA",-121.6169108,39.1404477
+"1792","Yuma","AZ",3,"Yuma ,  AZ",-114.6276916,32.6926512
+"1793","Zanesville","OH",1,"Zanesville ,  OH",-82.0131924,39.9403453
+"1794","Zion","IL",2,"Zion ,  IL",-87.8328505,42.4461322
